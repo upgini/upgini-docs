@@ -10,8 +10,6 @@ Row count: `1,014,889`
 
 Created: `2022-10-18 08:00:55` 
 
-Last updated: `Never` 
-
 ## ℹ️ Features info:
 |feature name|feature type|descrition|
 |---|---|---|
