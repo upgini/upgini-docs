@@ -8,8 +8,6 @@ Search keys: `DATE`
 
 Row count: `8,401`
 
-Created: `2022-02-22 21:15:02` 
-
 ## ℹ️ Features info:
 |feature name|feature type|descrition|
 |---|---|---|

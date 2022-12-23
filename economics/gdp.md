@@ -1,26 +1,24 @@
-# 📖 gdp_flat_v2 
+# 📖 gdp 
 ## ℹ️ Dataset info 
 Description: `The global economic data by country and date` 
 
-Labels:`owner:upgini` `dataset_type:public` `dataset_source:economics` 
+Labels:`dataset_type:public` `owner:upgini` `dataset_source:economics` 
 
 Search keys: `DATE` `COUNTRY`
 
 Row count: `3,139,658`
-
-Created: `2022-05-23 22:59:33` 
 
 ## ℹ️ Features info:
 |feature name|feature type|descrition|
 |---|---|---|
 |economic_country_date_gross_domestic_product_current_prices_national_currency|FLOAT|Gross domestic product, current prices, national currency|
 |economic_country_date_gross_domestic_product_constant_prices_percent_change|FLOAT|Gross domestic product, constant prices, percent change|
-|economic_country_date_inflation_end_of_period_consumer_prices_percent_change|FLOAT|Inflation, end of period,  consumer prices, percent change|
+|economic_country_date_inflation_end_of_period_consumer_prices_percent_change|FLOAT|Inflation, end of period, consumer prices, percent change|
 |economic_country_date_inflation_average_consumer_prices_percent_change|FLOAT|Inflation, average consumer prices, percent change|
 |economic_country_date_gross_domestic_product_deflator_index|FLOAT|Gross domestic product deflator index|
 |economic_country_date_population|FLOAT|Population|
 |economic_country_date_unemployment_rate|FLOAT|Unemployment rate|
-|economic_country_date_general_government_revenue_national_currency|FLOAT|General government revenue,  national currency|
+|economic_country_date_general_government_revenue_national_currency|FLOAT|General government revenue, national currency|
 |economic_country_date_general_government_total_expenditure_national_currency|FLOAT|General government total expenditure, national currency|
 |economic_country_date_general_government_gross_debt_national_currency|FLOAT|General government gross debt, national currency|
 |economic_country_date_general_government_net_debt_national_currency|FLOAT|General government gross debt, national currency|

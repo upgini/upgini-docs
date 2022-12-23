@@ -8,8 +8,6 @@ Search keys: `COUNTRY` `POSTAL_CODE`
 
 Row count: `418,699`
 
-Created: `2022-11-08 09:07:59` 
-
 ## ℹ️ Features info:
 |feature name|feature type|descrition|
 |---|---|---|
