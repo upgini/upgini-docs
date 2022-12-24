@@ -1,4 +1,4 @@
-Data sources available for `public` data type: 
+Data sources available for `public` data type:  
 [calendar](https://docs.upgini.com/public/calendar)  
 [osm](https://docs.upgini.com/public/osm)  
 [realty](https://docs.upgini.com/public/realty)  

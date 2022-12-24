@@ -1,4 +1,4 @@
-Datasets available for `osm` source: 
+Datasets available for `osm` source:  
 [postal_code_poi_1km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_1km_cnt_to_population)  
 [postal_code_poi_1km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_1km_cnt)  
 [postal_code_poi_2km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_2km_cnt)  
