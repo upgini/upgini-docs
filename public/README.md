@@ -7,5 +7,5 @@ Data sources available for `public` data type:
 [cci](https://docs.upgini.com/public/cci)  
 [weather](https://docs.upgini.com/public/weather)  
 [mobile](https://docs.upgini.com/public/mobile)  
-[umkus](https://docs.upgini.com/public/umkus)  
+[ip](https://docs.upgini.com/public/ip)  
 [census](https://docs.upgini.com/public/census)  
