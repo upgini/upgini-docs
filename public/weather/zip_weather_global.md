@@ -35,4 +35,4 @@ Row count: `9,080,095,143`
 |[weather_country_date_postal_delta_to_avg_wesd](https://docs.upgini.com/public/weather/zip_weather_global#weather_country_date_postal_delta_to_avg_wesd)|FLOAT||
 
 [test](https://docs.upgini.com/public/weather/zip_weather_global#test)
-[test2](https://docs.upgini.com/public/weather/zip_weather_global#test)
+<a href="#test2">test2</a>
