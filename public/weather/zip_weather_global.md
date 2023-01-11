@@ -33,3 +33,5 @@ Row count: `9,080,095,143`
 |weather_country_date_postal_delta_to_avg_snwd|FLOAT||
 |weather_country_date_postal_wesd|FLOAT||
 |[weather_country_date_postal_delta_to_avg_wesd](#weather_country_date_postal_delta_to_avg_wesd)|FLOAT||
+
+[test](#test)
