@@ -1,9 +1,9 @@
 Datasets available for `osm` source:  
+[postal_codes_ads_full](https://docs.upgini.com/public/osm/postal_codes_ads_full)  
 [postal_code_poi_1km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_1km_cnt_to_population)  
 [postal_code_poi_1km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_1km_cnt)  
 [postal_code_poi_5km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_5km_cnt)  
 [postal_code_poi_10km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_10km_cnt)  
-[postal_codes_ads_full](https://docs.upgini.com/public/osm/postal_codes_ads_full)  
 [postal_code_poi_2km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_2km_cnt)  
 [postal_code_poi_2km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_2km_cnt_to_population)  
 [postal_code_poi_5km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_5km_cnt_to_population)  
