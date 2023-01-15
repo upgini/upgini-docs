@@ -17,6 +17,3 @@ Row count: `916,047`
 |events_country_date_us_elections_flag|FLOAT|US election on this date or not|
 |events_country_date_us_days_to_election|FLOAT|Number of days to US election|
 |events_country_date_us_days_from_election|FLOAT|Number of days from US election|
-
-
-### [link1](#link1)

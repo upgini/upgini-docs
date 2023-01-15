@@ -11,6 +11,10 @@ Row count: `9,080,095,143`
 ## ℹ️ Features info:
 |feature name|feature type|descrition|
 |---|---|---|
+|weather_country_date_distance_to_closest_weather_station_in_30km_radius|FLOAT|Minimum distance to postal codes coordinates in some radius buffer|
+|weather_country_date_distance_to_medium_weather_station_in_30km_radius|FLOAT|Average distance to postal codes coordinates in some radius buffer|
+|weather_country_date_distance_to_furthest_weather_station_in_30km_radius|FLOAT|Maximum distance to postal codes coordinates in some radius buffer|
+|weather_country_date_number_of_weather_stations_in_30km_radius|INTEGER|Count of weather station in some radius buffer around postal code|
 |weather_country_date_postal_awnd|FLOAT||
 |weather_country_date_postal_delta_to_avg_awnd|FLOAT||
 |weather_country_date_postal_tmin|FLOAT||
