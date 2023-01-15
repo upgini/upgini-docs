@@ -1,6 +1,6 @@
 # 📖 postal_code_poi_1km_cnt 
 ## ℹ️ Dataset info 
-Description: `Counts of different OpenStreetMap POIs in 1km radius around the postal code` 
+Description: `Counts of different OpenStreetMap POIs in 1km radius around the postal code.` 
 
 Labels:`owner:upgini`   `dataset_type:public`   `dataset_source:osm`   
 
