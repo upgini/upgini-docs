@@ -36,8 +36,9 @@ Row count: `916,047`
 `Description`: `Number of days from US election`
 
 
-
-<span style="color:grey;font-weight:700;font-size:8px">
+<br/><br/>
+---
+<span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">
         <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
