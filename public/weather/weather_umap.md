@@ -2,62 +2,115 @@
 ## ℹ️ Dataset info 
 Description: `Daily weather data feed from global weather stations that is transform with UMAP. UMAP is a dimensionality reduction algorithm.` 
 
-Labels:`owner:upgini`   `dataset_type:public`   `dataset_source:weather`   
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: weather ` &nbsp;
 
-Search keys: `DATE` 
+Search keys: 
+` DATE ` &nbsp;
 
 Row count: `8,267` 
 
 ## ℹ️ Features info:
-|feature name|feature type|descrition|
-|---|---|---|
-|weather_date_weather_umap_0|FLOAT|Weather UMAP Component 0|
-|weather_date_weather_umap_1|FLOAT|Weather UMAP Component 1|
-|weather_date_weather_umap_2|FLOAT|Weather UMAP Component 2|
-|weather_date_weather_umap_3|FLOAT|Weather UMAP Component 3|
-|weather_date_weather_umap_4|FLOAT|Weather UMAP Component 4|
-|weather_date_weather_umap_5|FLOAT|Weather UMAP Component 5|
-|weather_date_weather_umap_6|FLOAT|Weather UMAP Component 6|
-|weather_date_weather_umap_7|FLOAT|Weather UMAP Component 7|
-|weather_date_weather_umap_8|FLOAT|Weather UMAP Component 8|
-|weather_date_weather_umap_9|FLOAT|Weather UMAP Component 9|
-|weather_date_weather_umap_10|FLOAT|Weather UMAP Component 10|
-|weather_date_weather_umap_11|FLOAT|Weather UMAP Component 11|
-|weather_date_weather_umap_12|FLOAT|Weather UMAP Component 12|
-|weather_date_weather_umap_13|FLOAT|Weather UMAP Component 13|
-|weather_date_weather_umap_14|FLOAT|Weather UMAP Component 14|
-|weather_date_weather_umap_15|FLOAT|Weather UMAP Component 15|
-|weather_date_weather_umap_16|FLOAT|Weather UMAP Component 16|
-|weather_date_weather_umap_17|FLOAT|Weather UMAP Component 17|
-|weather_date_weather_umap_18|FLOAT|Weather UMAP Component 18|
-|weather_date_weather_umap_19|FLOAT|Weather UMAP Component 19|
-|weather_date_weather_umap_20|FLOAT|Weather UMAP Component 20|
-|weather_date_weather_umap_21|FLOAT|Weather UMAP Component 21|
-|weather_date_weather_umap_22|FLOAT|Weather UMAP Component 22|
-|weather_date_weather_umap_23|FLOAT|Weather UMAP Component 23|
-|weather_date_weather_umap_24|FLOAT|Weather UMAP Component 24|
-|weather_date_weather_umap_25|FLOAT|Weather UMAP Component 25|
-|weather_date_weather_umap_26|FLOAT|Weather UMAP Component 26|
-|weather_date_weather_umap_27|FLOAT|Weather UMAP Component 27|
-|weather_date_weather_umap_28|FLOAT|Weather UMAP Component 28|
-|weather_date_weather_umap_29|FLOAT|Weather UMAP Component 29|
-|weather_date_weather_umap_30|FLOAT|Weather UMAP Component 30|
-|weather_date_weather_umap_31|FLOAT|Weather UMAP Component 31|
-|weather_date_weather_umap_32|FLOAT|Weather UMAP Component 32|
-|weather_date_weather_umap_33|FLOAT|Weather UMAP Component 33|
-|weather_date_weather_umap_34|FLOAT|Weather UMAP Component 34|
-|weather_date_weather_umap_35|FLOAT|Weather UMAP Component 35|
-|weather_date_weather_umap_36|FLOAT|Weather UMAP Component 36|
-|weather_date_weather_umap_37|FLOAT|Weather UMAP Component 37|
-|weather_date_weather_umap_38|FLOAT|Weather UMAP Component 38|
-|weather_date_weather_umap_39|FLOAT|Weather UMAP Component 39|
-|weather_date_weather_umap_40|FLOAT|Weather UMAP Component 40|
-|weather_date_weather_umap_41|FLOAT|Weather UMAP Component 41|
-|weather_date_weather_umap_42|FLOAT|Weather UMAP Component 42|
-|weather_date_weather_umap_43|FLOAT|Weather UMAP Component 43|
-|weather_date_weather_umap_44|FLOAT|Weather UMAP Component 44|
-|weather_date_weather_umap_45|FLOAT|Weather UMAP Component 45|
-|weather_date_weather_umap_46|FLOAT|Weather UMAP Component 46|
-|weather_date_weather_umap_47|FLOAT|Weather UMAP Component 47|
-|weather_date_weather_umap_48|FLOAT|Weather UMAP Component 48|
-|weather_date_weather_umap_49|FLOAT|Weather UMAP Component 49|
+### weather_date_weather_umap_0 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 0` <br/>### weather_date_weather_umap_1 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 1` <br/>### weather_date_weather_umap_2 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 2` <br/>### weather_date_weather_umap_3 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 3` <br/>### weather_date_weather_umap_4 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 4` <br/>### weather_date_weather_umap_5 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 5` <br/>### weather_date_weather_umap_6 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 6` <br/>### weather_date_weather_umap_7 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 7` <br/>### weather_date_weather_umap_8 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 8` <br/>### weather_date_weather_umap_9 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 9` <br/>### weather_date_weather_umap_10 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 10` <br/>### weather_date_weather_umap_11 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 11` <br/>### weather_date_weather_umap_12 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 12` <br/>### weather_date_weather_umap_13 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 13` <br/>### weather_date_weather_umap_14 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 14` <br/>### weather_date_weather_umap_15 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 15` <br/>### weather_date_weather_umap_16 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 16` <br/>### weather_date_weather_umap_17 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 17` <br/>### weather_date_weather_umap_18 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 18` <br/>### weather_date_weather_umap_19 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 19` <br/>### weather_date_weather_umap_20 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 20` <br/>### weather_date_weather_umap_21 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 21` <br/>### weather_date_weather_umap_22 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 22` <br/>### weather_date_weather_umap_23 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 23` <br/>### weather_date_weather_umap_24 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 24` <br/>### weather_date_weather_umap_25 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 25` <br/>### weather_date_weather_umap_26 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 26` <br/>### weather_date_weather_umap_27 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 27` <br/>### weather_date_weather_umap_28 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 28` <br/>### weather_date_weather_umap_29 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 29` <br/>### weather_date_weather_umap_30 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 30` <br/>### weather_date_weather_umap_31 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 31` <br/>### weather_date_weather_umap_32 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 32` <br/>### weather_date_weather_umap_33 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 33` <br/>### weather_date_weather_umap_34 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 34` <br/>### weather_date_weather_umap_35 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 35` <br/>### weather_date_weather_umap_36 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 36` <br/>### weather_date_weather_umap_37 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 37` <br/>### weather_date_weather_umap_38 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 38` <br/>### weather_date_weather_umap_39 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 39` <br/>### weather_date_weather_umap_40 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 40` <br/>### weather_date_weather_umap_41 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 41` <br/>### weather_date_weather_umap_42 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 42` <br/>### weather_date_weather_umap_43 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 43` <br/>### weather_date_weather_umap_44 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 44` <br/>### weather_date_weather_umap_45 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 45` <br/>### weather_date_weather_umap_46 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 46` <br/>### weather_date_weather_umap_47 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 47` <br/>### weather_date_weather_umap_48 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 48` <br/>### weather_date_weather_umap_49 <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Weather UMAP Component 49` <br/>
+
+
+_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>

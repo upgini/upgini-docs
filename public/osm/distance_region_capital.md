@@ -2,13 +2,17 @@
 ## ℹ️ Dataset info 
 Description: `Distance from postal code to the nearest region capital ` 
 
-Labels:`owner:upgini`   `dataset_type:public`   `dataset_source:osm`   
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: osm ` &nbsp;
 
-Search keys: `COUNTRY` `POSTAL_CODE` 
+Search keys: 
+` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
 Row count: `100,675` 
 
 ## ℹ️ Features info:
-|feature name|feature type|descrition|
-|---|---|---|
-|location_country_postal_dist_from_region_capital|FLOAT|Distance to the nearest region capital, m|
+### location_country_postal_dist_from_region_capital <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Distance to the nearest region capital, m` <br/>
+
+
+_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>

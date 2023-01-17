@@ -2,13 +2,17 @@
 ## ℹ️ Dataset info 
 Description: `Daytime duration for any date and location (country + postal code)` 
 
-Labels:`owner:upgini`   `dataset_type:public`   `dataset_source:weather`   
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: weather ` &nbsp;
 
-Search keys: `COUNTRY` `POSTAL_CODE` `DATE` 
+Search keys: 
+` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;` DATE ` &nbsp;
 
 Row count: `9,642,228,124` 
 
 ## ℹ️ Features info:
-|feature name|feature type|descrition|
-|---|---|---|
-|weather_country_date_postal_daylight_time|FLOAT|Daytime duration|
+### weather_country_date_postal_daylight_time <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Daytime duration` <br/>
+
+
+_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>

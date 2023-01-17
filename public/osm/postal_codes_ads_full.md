@@ -2,14 +2,19 @@
 ## ℹ️ Dataset info 
 Description: `Data feed contains coordinates of postal codes across global` 
 
-Labels:`owner:upgini`   `dataset_type:public`   `dataset_source:osm`   
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: osm ` &nbsp;
 
-Search keys: `COUNTRY` `POSTAL_CODE` 
+Search keys: 
+` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
 Row count: `421,797` 
 
 ## ℹ️ Features info:
-|feature name|feature type|descrition|
-|---|---|---|
-|location_country_postal_latitude|FLOAT|Latitude of postal code|
-|location_country_postal_longitude|FLOAT|Longitude of postal code|
+### location_country_postal_latitude <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Latitude of postal code` <br/>### location_country_postal_longitude <br/>
+`Datatype`: `FLOAT` <br/>
+`Description`: `Longitude of postal code` <br/>
+
+
+_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
