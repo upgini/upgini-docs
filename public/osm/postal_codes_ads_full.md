@@ -10,11 +10,20 @@ Search keys:
 Row count: `421,797` 
 
 ## ℹ️ Features info:
-### location_country_postal_latitude <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Latitude of postal code` <br/>### location_country_postal_longitude <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Longitude of postal code` <br/>
+
+### location_country_postal_latitude
+`Datatype`: `FLOAT`
+`Description`: `Latitude of postal code`
+
+### location_country_postal_longitude
+`Datatype`: `FLOAT`
+`Description`: `Longitude of postal code`
 
 
-_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
+
+<span style="color:grey;font-weight:700;font-size:8px">
+    Need help with Docs? Ask in
+    <a href="https://4mlg.short.gy/join-upgini-community">
+        <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
+    </a>
+</span>

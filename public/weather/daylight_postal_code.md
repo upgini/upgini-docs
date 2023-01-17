@@ -10,9 +10,16 @@ Search keys:
 Row count: `9,642,228,124` 
 
 ## ℹ️ Features info:
-### weather_country_date_postal_daylight_time <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Daytime duration` <br/>
+
+### weather_country_date_postal_daylight_time
+`Datatype`: `FLOAT`
+`Description`: `Daytime duration`
 
 
-_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
+
+<span style="color:grey;font-weight:700;font-size:8px">
+    Need help with Docs? Ask in
+    <a href="https://4mlg.short.gy/join-upgini-community">
+        <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
+    </a>
+</span>

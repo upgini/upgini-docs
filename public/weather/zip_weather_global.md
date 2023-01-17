@@ -10,51 +10,100 @@ Search keys:
 Row count: `9,080,095,143` 
 
 ## ℹ️ Features info:
-### weather_country_date_distance_to_closest_weather_station_in_30km_radius <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Minimum distance to postal codes coordinates in some radius buffer` <br/>### weather_country_date_distance_to_medium_weather_station_in_30km_radius <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Average distance to postal codes coordinates in some radius buffer` <br/>### weather_country_date_distance_to_furthest_weather_station_in_30km_radius <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Maximum distance to postal codes coordinates in some radius buffer` <br/>### weather_country_date_number_of_weather_stations_in_30km_radius <br/>
-`Datatype`: `INTEGER` <br/>
-`Description`: `Count of weather station in some radius buffer around postal code` <br/>### weather_country_date_postal_awnd <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_awnd <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_tmin <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_tmin <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_tmax <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_tmax <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_tavg <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_tavg <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_tobs <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_tobs <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_prcp <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_prcp <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_snow <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_snow <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_snwd <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_snwd <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_wesd <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>### weather_country_date_postal_delta_to_avg_wesd <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `` <br/>
+
+### weather_country_date_distance_to_closest_weather_station_in_30km_radius
+`Datatype`: `FLOAT`
+`Description`: `Minimum distance to postal codes coordinates in some radius buffer`
+
+### weather_country_date_distance_to_medium_weather_station_in_30km_radius
+`Datatype`: `FLOAT`
+`Description`: `Average distance to postal codes coordinates in some radius buffer`
+
+### weather_country_date_distance_to_furthest_weather_station_in_30km_radius
+`Datatype`: `FLOAT`
+`Description`: `Maximum distance to postal codes coordinates in some radius buffer`
+
+### weather_country_date_number_of_weather_stations_in_30km_radius
+`Datatype`: `INTEGER`
+`Description`: `Count of weather station in some radius buffer around postal code`
+
+### weather_country_date_postal_awnd
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_awnd
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_tmin
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_tmin
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_tmax
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_tmax
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_tavg
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_tavg
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_tobs
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_tobs
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_prcp
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_prcp
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_snow
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_snow
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_snwd
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_snwd
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_wesd
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### weather_country_date_postal_delta_to_avg_wesd
+`Datatype`: `FLOAT`
+`Description`: ``
 
 
-_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
+
+<span style="color:grey;font-weight:700;font-size:8px">
+    Need help with Docs? Ask in
+    <a href="https://4mlg.short.gy/join-upgini-community">
+        <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
+    </a>
+</span>

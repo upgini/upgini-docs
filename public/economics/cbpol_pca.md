@@ -10,27 +10,52 @@ Search keys:
 Row count: `5,858` 
 
 ## ℹ️ Features info:
-### economic_date_cbpol_pca_0 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 0` <br/>### economic_date_cbpol_pca_1 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 1` <br/>### economic_date_cbpol_pca_2 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 2` <br/>### economic_date_cbpol_pca_3 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 3` <br/>### economic_date_cbpol_pca_4 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 4` <br/>### economic_date_cbpol_pca_5 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 5` <br/>### economic_date_cbpol_pca_6 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 6` <br/>### economic_date_cbpol_pca_7 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 7` <br/>### economic_date_cbpol_pca_8 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 8` <br/>### economic_date_cbpol_pca_9 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Central bank policy rates data PCA component 9` <br/>
+
+### economic_date_cbpol_pca_0
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 0`
+
+### economic_date_cbpol_pca_1
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 1`
+
+### economic_date_cbpol_pca_2
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 2`
+
+### economic_date_cbpol_pca_3
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 3`
+
+### economic_date_cbpol_pca_4
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 4`
+
+### economic_date_cbpol_pca_5
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 5`
+
+### economic_date_cbpol_pca_6
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 6`
+
+### economic_date_cbpol_pca_7
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 7`
+
+### economic_date_cbpol_pca_8
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 8`
+
+### economic_date_cbpol_pca_9
+`Datatype`: `FLOAT`
+`Description`: `Central bank policy rates data PCA component 9`
 
 
-_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
+
+<span style="color:grey;font-weight:700;font-size:8px">
+    Need help with Docs? Ask in
+    <a href="https://4mlg.short.gy/join-upgini-community">
+        <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
+    </a>
+</span>

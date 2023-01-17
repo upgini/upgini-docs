@@ -10,11 +10,20 @@ Search keys:
 Row count: `1,015,291` 
 
 ## ℹ️ Features info:
-### location_country_postal_nearest_big_city_population <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Population of the nearest big city. Big city = city with 300k+ population` <br/>### location_country_postal_dist_from_300k_popul_city <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Distance to the nearest big city. Big city = city with 300k+ population` <br/>
+
+### location_country_postal_nearest_big_city_population
+`Datatype`: `FLOAT`
+`Description`: `Population of the nearest big city. Big city = city with 300k+ population`
+
+### location_country_postal_dist_from_300k_popul_city
+`Datatype`: `FLOAT`
+`Description`: `Distance to the nearest big city. Big city = city with 300k+ population`
 
 
-_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
+
+<span style="color:grey;font-weight:700;font-size:8px">
+    Need help with Docs? Ask in
+    <a href="https://4mlg.short.gy/join-upgini-community">
+        <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
+    </a>
+</span>

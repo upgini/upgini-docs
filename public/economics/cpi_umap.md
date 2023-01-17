@@ -10,27 +10,52 @@ Search keys:
 Row count: `8,228` 
 
 ## ℹ️ Features info:
-### economic_date_cpi_umap_0 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 0` <br/>### economic_date_cpi_umap_1 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 1` <br/>### economic_date_cpi_umap_2 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 2` <br/>### economic_date_cpi_umap_3 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 3` <br/>### economic_date_cpi_umap_4 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 4` <br/>### economic_date_cpi_umap_5 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 5` <br/>### economic_date_cpi_umap_6 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 6` <br/>### economic_date_cpi_umap_7 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 7` <br/>### economic_date_cpi_umap_8 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 8` <br/>### economic_date_cpi_umap_9 <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Consumer Price Index UMAP component 9` <br/>
+
+### economic_date_cpi_umap_0
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 0`
+
+### economic_date_cpi_umap_1
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 1`
+
+### economic_date_cpi_umap_2
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 2`
+
+### economic_date_cpi_umap_3
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 3`
+
+### economic_date_cpi_umap_4
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 4`
+
+### economic_date_cpi_umap_5
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 5`
+
+### economic_date_cpi_umap_6
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 6`
+
+### economic_date_cpi_umap_7
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 7`
+
+### economic_date_cpi_umap_8
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 8`
+
+### economic_date_cpi_umap_9
+`Datatype`: `FLOAT`
+`Description`: `Consumer Price Index UMAP component 9`
 
 
-_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
+
+<span style="color:grey;font-weight:700;font-size:8px">
+    Need help with Docs? Ask in
+    <a href="https://4mlg.short.gy/join-upgini-community">
+        <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
+    </a>
+</span>

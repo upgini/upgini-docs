@@ -10,9 +10,16 @@ Search keys:
 Row count: `100,675` 
 
 ## ℹ️ Features info:
-### location_country_postal_dist_from_region_capital <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Distance to the nearest region capital, m` <br/>
+
+### location_country_postal_dist_from_region_capital
+`Datatype`: `FLOAT`
+`Description`: `Distance to the nearest region capital, m`
 
 
-_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
+
+<span style="color:grey;font-weight:700;font-size:8px">
+    Need help with Docs? Ask in
+    <a href="https://4mlg.short.gy/join-upgini-community">
+        <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
+    </a>
+</span>

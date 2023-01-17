@@ -10,11 +10,20 @@ Search keys:
 Row count: `246,345` 
 
 ## ℹ️ Features info:
-### location_country_postal_dist_from_city_center <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Distance between postal code and city center` <br/>### location_country_postal_realty_price_sqm_usd <br/>
-`Datatype`: `FLOAT` <br/>
-`Description`: `Average price of 1 sq. m. for real estate in the area of postal code` <br/>
+
+### location_country_postal_dist_from_city_center
+`Datatype`: `FLOAT`
+`Description`: `Distance between postal code and city center`
+
+### location_country_postal_realty_price_sqm_usd
+`Datatype`: `FLOAT`
+`Description`: `Average price of 1 sq. m. for real estate in the area of postal code`
 
 
-_Need help with Docs? Ask in_ <a href="https://4mlg.short.gy/join-upgini-community"><img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack"></a>
+
+<span style="color:grey;font-weight:700;font-size:8px">
+    Need help with Docs? Ask in
+    <a href="https://4mlg.short.gy/join-upgini-community">
+        <img alt="Upgini slack community" src="https://img.shields.io/badge/slack-@upgini-orange.svg?logo=slack">
+    </a>
+</span>
