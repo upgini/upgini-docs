@@ -420,8 +420,9 @@ Row count: `1,546,864`
 `Description`: `Consumer Price Index, Transport, Weight`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

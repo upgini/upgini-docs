@@ -20,8 +20,9 @@ Row count: `246,345`
 `Description`: `Average price of 1 sq. m. for real estate in the area of postal code`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

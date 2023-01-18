@@ -700,8 +700,9 @@ Row count: `418,699`
 `Description`: `Count of the specific OSM POIs in 1km radius around the postal code, divided by the population of the same area`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

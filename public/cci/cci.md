@@ -52,8 +52,9 @@ Row count: `345,576`
 `Description`: `Ratio Consumer Confidence Index to Consumer Confidence Index 12 months shift`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

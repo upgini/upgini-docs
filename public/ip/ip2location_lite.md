@@ -40,8 +40,9 @@ Row count: `3,141,635`
 `Description`: `Time zone derived from IP address`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

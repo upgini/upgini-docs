@@ -108,8 +108,9 @@ Row count: `1,505,626`
 `Description`: `Maximum water equivalent of snow on the ground (tenths of mm) for country on the date`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

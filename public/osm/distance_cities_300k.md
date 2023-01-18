@@ -20,8 +20,9 @@ Row count: `1,015,291`
 `Description`: `Distance to the nearest big city. Big city = city with 300k+ population`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

@@ -212,8 +212,9 @@ Row count: `8,267`
 `Description`: `Weather UMAP Component 49`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

@@ -52,8 +52,9 @@ Row count: `123,176`
 `Description`: `Percent of LTE cells  in postal code area`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">

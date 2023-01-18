@@ -40,8 +40,9 @@ Row count: `2,317,954`
 `Description`: `Security threat reported for IP address`
 
 
-<br/><br/>
+
 ---
+
 <span style="color:grey;font-weight:700;font-size:12px">
     Need help with Docs? Ask in
     <a href="https://4mlg.short.gy/join-upgini-community">
