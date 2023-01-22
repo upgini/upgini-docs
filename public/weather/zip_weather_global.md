@@ -29,11 +29,11 @@ Row count: `9,080,095,143`
 
 ### f_weather_country_date_postal_awnd_c34436bf
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Average daily wind speed (meters per second or miles per hour as per user preference) for postal code`
 
 ### f_weather_country_date_postal_delta_to_avg_awnd_3d575167
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Delta to weather_country_date_postal_awnd`
 
 ### f_weather_country_date_postal_tmin_4f2682de
 `Datatype`: `FLOAT`
