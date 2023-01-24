@@ -1,6 +1,6 @@
 # 📖 calendar 
 ## ℹ️ Dataset info 
-Description: `Calendar data for 232 countries and 22 years history` 
+Description: `Global calendar data` 
 
 Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: calendar ` &nbsp;
 
