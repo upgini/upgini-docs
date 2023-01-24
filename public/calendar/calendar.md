@@ -1,13 +1,6 @@
 # 📖 calendar 
 ## ℹ️ Dataset info 
-Description: `232 countries
-22 years history
-Monthly update
-Workweek calendars by countries
-Public holidays
-Religious holidays
-Sporting events
-Political events` 
+Description: `Calendar data for 232 countries and 22 years history` 
 
 Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: calendar ` &nbsp;
 
