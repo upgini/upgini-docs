@@ -13,67 +13,67 @@ Row count: `32,799`
 
 ### f_location_country_postal_total_population_465b439e
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Population of postal code area`
 
 ### f_location_country_postal_households_e0a37e9f
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Number of households in the postal code area`
 
 ### f_location_country_postal_avg_population_by_one_household_72bf93ba
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Average number of inhabitants per household in the postal code area`
 
 ### f_location_country_postal_male_population_ca347b57
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of males in the postal code area`
 
 ### f_location_country_postal_male_prcnt_c1748e70
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of males in the postal code area`
 
 ### f_location_country_postal_female_population_203f8c93
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Number of women in the postal code area`
 
 ### f_location_country_postal_female_prcnt_035834d5
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of women in the postal code area`
 
 ### f_location_country_postal_female_minus_male_population_895aacd2
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The difference between the number of women and men living in the area`
 
 ### f_location_country_postal_median_age_4b1ba8f5
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Median age of the postal code area residents`
 
 ### f_location_country_postal_male_under_5_ef4623d5
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men under the age of 5 living in the postal code area`
 
 ### f_location_country_postal_male_5_to_9_7bbcd91a
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 5 to 9 years living in the postal code area`
 
 ### f_location_country_postal_male_10_to_14_6c47c3ac
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 10 to 14 years living in the postal code area`
 
 ### f_location_country_postal_male_15_to_17_0c49c08b
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 15 to 17 years living in the postal code area`
 
 ### f_location_country_postal_male_18_to_19_a32a8aa4
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 18 to 19 years living in the postal code area`
 
 ### f_location_country_postal_male_20_b6777b2c
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 20 years living in the postal code area`
 
 ### f_location_country_postal_male_21_71033c02
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 21 years living in the postal code area`
 
 ### f_location_country_postal_male_22_to_24_9c257853
 `Datatype`: `FLOAT`
