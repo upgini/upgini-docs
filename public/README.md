@@ -1,6 +1,6 @@
 Data sources available for `public` data type:  
-[osm](https://docs.upgini.com/public/osm)  
 [cci](https://docs.upgini.com/public/cci)  
+[osm](https://docs.upgini.com/public/osm)  
 [ip](https://docs.upgini.com/public/ip)  
 [economics](https://docs.upgini.com/public/economics)  
 [calendar](https://docs.upgini.com/public/calendar)  
