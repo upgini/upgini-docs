@@ -77,307 +77,307 @@ Row count: `32,799`
 
 ### f_location_country_postal_male_22_to_24_9c257853
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 22 to 24 years living in the postal code area`
 
 ### f_location_country_postal_male_25_to_29_7cf97fec
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 25 to 29 years living in the postal code area`
 
 ### f_location_country_postal_male_30_to_34_45966deb
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 30 to 34 years living in the postal code area`
 
 ### f_location_country_postal_male_35_to_39_44775339
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 35 to 39 years living in the postal code area`
 
 ### f_location_country_postal_male_40_to_44_6b2685e6
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 40 to 44 years living in the postal code area`
 
 ### f_location_country_postal_male_45_to_49_ef5238f1
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 45 to 49 years living in the postal code area`
 
 ### f_location_country_postal_male_50_to_54_4303d1c3
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 50 to 54 years living in the postal code area`
 
 ### f_location_country_postal_male_55_to_59_d58cb13b
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 55 to 59 years living in the postal code area`
 
 ### f_location_country_postal_male_65_to_66_920076d1
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 65 to 66 years living in the postal code area`
 
 ### f_location_country_postal_male_67_to_69_116c37a6
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 67 to 69 years living in the postal code area`
 
 ### f_location_country_postal_male_70_to_74_3b39b88f
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 70 to 74 years living in the postal code area`
 
 ### f_location_country_postal_male_75_to_79_5bc68571
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 75 to 79 years living in the postal code area`
 
 ### f_location_country_postal_male_80_to_84_45cc5169
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 80 to 84 years living in the postal code area`
 
 ### f_location_country_postal_male_85_and_over_ac6fd8ca
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of men aged 85+ living in the postal code area`
 
 ### f_location_country_postal_female_under_5_cb0cf817
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women under the age of 5 living in the postal code area`
 
 ### f_location_country_postal_female_5_to_9_023c5b79
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 5 to 9 years living in the postal code area`
 
 ### f_location_country_postal_female_10_to_14_77c4db8f
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 10 to 14 years living in the postal code area`
 
 ### f_location_country_postal_female_15_to_17_d9137d21
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 15 to 17 years living in the postal code area`
 
 ### f_location_country_postal_female_18_to_19_b4756456
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 18 to 19 years living in the postal code area`
 
 ### f_location_country_postal_female_20_f9065ebb
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 20 years living in the postal code area`
 
 ### f_location_country_postal_female_21_598aa8ca
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 21 years living in the postal code area`
 
 ### f_location_country_postal_female_22_to_24_50d7888d
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 22 to 24 years living in the postal code area`
 
 ### f_location_country_postal_female_25_to_29_4da14dc0
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 25 to 29 years living in the postal code area`
 
 ### f_location_country_postal_female_30_to_34_0addc092
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 30 to 34 years living in the postal code area`
 
 ### f_location_country_postal_female_35_to_39_786d6419
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 35 to 39 years living in the postal code area`
 
 ### f_location_country_postal_female_40_to_44_f495faac
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 40 to 44 years living in the postal code area`
 
 ### f_location_country_postal_female_45_to_49_6e9addd3
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 45 to 49 years living in the postal code area`
 
 ### f_location_country_postal_female_50_to_54_db0b98c2
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 50 to 54 years living in the postal code area`
 
 ### f_location_country_postal_female_55_to_59_9b571411
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 55 to 59 years living in the postal code area`
 
 ### f_location_country_postal_female_60_to_61_67fd0242
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 60 to 61 years living in the postal code area`
 
 ### f_location_country_postal_female_62_to_64_18493791
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 62 to 64 years living in the postal code area`
 
 ### f_location_country_postal_female_65_to_66_68cac4d7
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 65 to 66 years living in the postal code area`
 
 ### f_location_country_postal_female_67_to_69_836d1e61
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 67 to 69 years living in the postal code area`
 
 ### f_location_country_postal_female_70_to_74_434cd3eb
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 70 to 74 years living in the postal code area`
 
 ### f_location_country_postal_female_75_to_79_d428f653
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 75 to 79 years living in the postal code area`
 
 ### f_location_country_postal_female_80_to_84_f04e2d9f
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 80 to 84 years living in the postal code area`
 
 ### f_location_country_postal_female_85_and_over_cc4bc9bc
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of women aged 85+ years living in the postal code area`
 
 ### f_location_country_postal_white_pop_995cb9f3
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Number of white residents in the postal code area`
 
 ### f_location_country_postal_white_population_prcnt_7b317909
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of white residents in the postal code area`
 
 ### f_location_country_postal_population_1_year_and_over_c0ad7420
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents aged 1+ years living in the postal code area`
 
 ### f_location_country_postal_population_3_years_over_75e13d5c
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents aged 3+ years living in the postal code area`
 
 ### f_location_country_postal_pop_5_years_over_ec56b102
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents aged 5+ years living in the postal code area`
 
 ### f_location_country_postal_pop_15_and_over_ffded1e4
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents aged 15+ years living in the postal code area`
 
 ### f_location_country_postal_pop_16_over_ece82605
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents aged 16+ years living in the postal code area`
 
 ### f_location_country_postal_pop_25_years_over_da3e8a69
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents aged 25+ years living in the postal code area`
 
 ### f_location_country_postal_pop_25_64_7e7b8c0b
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents aged 25 to 64 years living in the postal code area`
 
 ### f_location_country_postal_pop_never_married_0701c3a2
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents never married in the postal code area`
 
 ### f_location_country_postal_pop_now_married_410cbecc
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents now married in the postal code area`
 
 ### f_location_country_postal_pop_separated_41b3fcd3
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of separated residents in the postal code area`
 
 ### f_location_country_postal_pop_widowed_33d7a35a
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of widowed residents in the postal code area`
 
 ### f_location_country_postal_pop_divorced_5b3f5afe
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of divorced residents in the postal code area`
 
 ### f_location_country_postal_not_us_citizen_pop_20b36f95
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of not US citizen residents in the postal code area`
 
 ### f_location_country_postal_not_us_citizen_prcnt_448780dd
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of not US citizen residents in the postal code area`
 
 ### f_location_country_postal_black_pop_5c731fc8
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of black residents in the postal code area`
 
 ### f_location_country_postal_black_population_prcnt_503877b9
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of black residents in the postal code area`
 
 ### f_location_country_postal_asian_pop_1caee5b9
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of asian residents in the postal code area`
 
 ### f_location_country_postal_asian_population_prcnt_a93958d5
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of asian residents in the postal code area`
 
 ### f_location_country_postal_hispanic_pop_92e663d7
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of hispanic residents in the postal code area`
 
 ### f_location_country_postal_hispanic_population_prcnt_7889d83c
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of hispanic residents in the postal code area`
 
 ### f_location_country_postal_amerindian_pop_fa600fb6
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of american indian residents in the postal code area`
 
 ### f_location_country_postal_amerindian_population_prcnt_43de9dff
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of american indian residents in the postal code area`
 
 ### f_location_country_postal_other_race_pop_940b4588
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of other races residents in the postal code area`
 
 ### f_location_country_postal_other_race_population_prcnt_074d6009
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Percentage of other races residents in the postal code area`
 
 ### f_location_country_postal_two_or_more_races_pop_d2d0c55c
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of residents that classified as 2+ races in the postal code area`
 
 ### f_location_country_postal_hispanic_any_race_4a74fab4
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of any race  hispanic residents in the postal code area`
 
 ### f_location_country_postal_not_hispanic_pop_5a1f22c6
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of non hispanic residents in the postal code area`
 
 ### f_location_country_postal_asian_male_45_54_0dd73042
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of male asian residents aged 45 to 54 years living in the postal code area`
 
 ### f_location_country_postal_asian_male_55_64_ea418930
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of male asian residents aged 55 to 64 years living in the postal code area`
 
 ### f_location_country_postal_black_male_45_54_6ea67af7
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of male black residents aged 45 to 54 years living in the postal code area`
 
 ### f_location_country_postal_black_male_55_64_84c4d79a
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of male black residents aged 55 to 64 years living in the postal code area`
 
 ### f_location_country_postal_hispanic_male_45_54_b3f07315
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of male hispanic residents aged 45 to 54 years living in the postal code area`
 
 ### f_location_country_postal_hispanic_male_55_64_131e36a8
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of male hispanic residents aged 55 to 64 years living in the postal code area`
 
 ### f_location_country_postal_white_male_45_54_91cd7c05
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of male white residents aged 45 to 54 years living in the postal code area`
 
 ### f_location_country_postal_white_male_55_64_226d71a7
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `The number of male white residents aged 55 to 64 years living in the postal code area`
 
 ### f_location_country_postal_median_income_8002d792
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Median income in the postal code area`
 
 ### f_location_country_postal_income_per_capita_e45f7ab2
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Income per capita in the postal code area`
 
 ### f_location_country_postal_income_less_10000_1cc6fe33
 `Datatype`: `FLOAT`
