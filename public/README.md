@@ -7,5 +7,6 @@ Data sources available for `public` data type:
 [weather](https://docs.upgini.com/public/weather)  
 [economics](https://docs.upgini.com/public/economics)  
 [realty](https://docs.upgini.com/public/realty)  
+[phone_numbers](https://docs.upgini.com/public/phone_numbers)  
 [mobile](https://docs.upgini.com/public/mobile)  
 [census](https://docs.upgini.com/public/census)  
