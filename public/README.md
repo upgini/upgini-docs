@@ -5,7 +5,6 @@ Data sources available for `public` data type:
 [calendar](https://docs.upgini.com/public/calendar)  
 [realty](https://docs.upgini.com/public/realty)  
 [mobile](https://docs.upgini.com/public/mobile)  
-[phone_numbers](https://docs.upgini.com/public/phone_numbers)  
 [markets](https://docs.upgini.com/public/markets)  
 [ip](https://docs.upgini.com/public/ip)  
 [cci](https://docs.upgini.com/public/cci)  
