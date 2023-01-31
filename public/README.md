@@ -1,7 +1,6 @@
 Data sources available for `public` data type:  
-[cci](https://docs.upgini.com/public/cci)  
-[osm](https://docs.upgini.com/public/osm)  
 [weather](https://docs.upgini.com/public/weather)  
+[osm](https://docs.upgini.com/public/osm)  
 [ip](https://docs.upgini.com/public/ip)  
 [mobile](https://docs.upgini.com/public/mobile)  
 [economics](https://docs.upgini.com/public/economics)  
@@ -9,4 +8,5 @@ Data sources available for `public` data type:
 [realty](https://docs.upgini.com/public/realty)  
 [phone_numbers](https://docs.upgini.com/public/phone_numbers)  
 [markets](https://docs.upgini.com/public/markets)  
+[cci](https://docs.upgini.com/public/cci)  
 [census](https://docs.upgini.com/public/census)  
