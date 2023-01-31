@@ -8,6 +8,6 @@ Datasets available for `osm` source:
 [postal_code_poi_2km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_2km_cnt_to_population)  
 [postal_code_poi_1km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_1km_cnt_to_population)  
 [postal_code_poi_1km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_1km_cnt)  
+[distance_region_capital](https://docs.upgini.com/public/osm/distance_region_capital)  
 [distance_cities_300k](https://docs.upgini.com/public/osm/distance_cities_300k)  
 [osm_dae](https://docs.upgini.com/public/osm/osm_dae)  
-[distance_region_capital](https://docs.upgini.com/public/osm/distance_region_capital)  
