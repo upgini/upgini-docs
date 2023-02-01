@@ -37,7 +37,7 @@ Row count: `9,080,095,143`
 
 ### f_weather_country_date_postal_tmin_4f2682de
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Minimum temperature (tenths of degrees C) for the postal code area on the date`
 
 ### f_weather_country_date_postal_delta_to_avg_tmin_7138ea7c
 `Datatype`: `FLOAT`
@@ -45,7 +45,7 @@ Row count: `9,080,095,143`
 
 ### f_weather_country_date_postal_tmax_cb183aa2
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Maximum temperature (tenths of degrees C) for the postal code area on the date`
 
 ### f_weather_country_date_postal_delta_to_avg_tmax_b6c6ac1f
 `Datatype`: `FLOAT`
@@ -53,7 +53,7 @@ Row count: `9,080,095,143`
 
 ### f_weather_country_date_postal_tavg_d1419ab9
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Average temperature (tenths of degrees C) for the postal code area on the date`
 
 ### f_weather_country_date_postal_delta_to_avg_tavg_81aca723
 `Datatype`: `FLOAT`
