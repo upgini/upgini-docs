@@ -1,6 +1,6 @@
 # 📖 phone_numbers 
 ## ℹ️ Dataset info 
-Description: `Data from numbering plan area codes of different countries` 
+Description: `Data from countries numbering plan` 
 
 Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: phone_numbers ` &nbsp;
 
