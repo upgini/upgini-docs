@@ -6,6 +6,7 @@ Datasets available for `osm` source:
 [distance_region_capital](https://docs.upgini.com/public/osm/distance_region_capital)  
 [postal_code_roads_4km_length](https://docs.upgini.com/public/osm/postal_code_roads_4km_length)  
 [postal_code_roads_100m_length](https://docs.upgini.com/public/osm/postal_code_roads_100m_length)  
+[postal_code_landuse_4km_area](https://docs.upgini.com/public/osm/postal_code_landuse_4km_area)  
 [postal_code_poi_1km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_1km_cnt)  
 [postal_code_poi_2km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_2km_cnt)  
 [postal_code_poi_5km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_5km_cnt)  
