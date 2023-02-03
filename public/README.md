@@ -8,5 +8,6 @@ Data sources available for `public` data type:
 [realty](https://docs.upgini.com/public/realty)  
 [ip](https://docs.upgini.com/public/ip)  
 [markets](https://docs.upgini.com/public/markets)  
+[location](https://docs.upgini.com/public/location)  
 [cci](https://docs.upgini.com/public/cci)  
 [census](https://docs.upgini.com/public/census)  
