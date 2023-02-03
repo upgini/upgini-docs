@@ -11,6 +11,7 @@ Datasets available for `osm` source:
 [postal_code_poi_2km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_2km_cnt)  
 [postal_code_poi_5km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_5km_cnt)  
 [postal_code_poi_10km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_10km_cnt)  
+[postal_code_buildings_300m_distance_avg](https://docs.upgini.com/public/osm/postal_code_buildings_300m_distance_avg)  
 [postal_codes_ads_full](https://docs.upgini.com/public/osm/postal_codes_ads_full)  
 [postal_code_landuse_100m_area](https://docs.upgini.com/public/osm/postal_code_landuse_100m_area)  
 [postal_code_buildings_100m_distance_avg](https://docs.upgini.com/public/osm/postal_code_buildings_100m_distance_avg)  
