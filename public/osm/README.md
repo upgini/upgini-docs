@@ -3,7 +3,6 @@ Datasets available for `osm` source:
 [postal_code_poi_2km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_2km_cnt_to_population)  
 [postal_code_poi_5km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_5km_cnt_to_population)  
 [postal_code_poi_10km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_10km_cnt_to_population)  
-[distance_region_capital](https://docs.upgini.com/public/osm/distance_region_capital)  
 [postal_code_roads_4km_length](https://docs.upgini.com/public/osm/postal_code_roads_4km_length)  
 [postal_code_roads_100m_length](https://docs.upgini.com/public/osm/postal_code_roads_100m_length)  
 [postal_code_landuse_4km_area](https://docs.upgini.com/public/osm/postal_code_landuse_4km_area)  
@@ -14,5 +13,4 @@ Datasets available for `osm` source:
 [postal_code_buildings_300m_distance_avg](https://docs.upgini.com/public/osm/postal_code_buildings_300m_distance_avg)  
 [postal_code_landuse_100m_area](https://docs.upgini.com/public/osm/postal_code_landuse_100m_area)  
 [postal_code_buildings_100m_distance_avg](https://docs.upgini.com/public/osm/postal_code_buildings_100m_distance_avg)  
-[distance_cities_300k](https://docs.upgini.com/public/osm/distance_cities_300k)  
 [osm_dae](https://docs.upgini.com/public/osm/osm_dae)  
