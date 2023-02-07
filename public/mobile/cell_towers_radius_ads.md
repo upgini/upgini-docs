@@ -11,75 +11,75 @@ Row count: `1,758,718`
 
 ## ℹ️ Features info:
 
-### f_cells_1km_cnt_67571621
+### f_telecom_country_postal_cells_1km_cnt_73f387d4
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_5km_cnt_d1ff9266
+### f_telecom_country_postal_cells_5km_cnt_14a2fa4e
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_10km_cnt_9ccc6c00
+### f_telecom_country_postal_cells_10km_cnt_d8741cfd
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_20km_cnt_d9b59dae
+### f_telecom_country_postal_cells_20km_cnt_0a9fda75
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_lte_1km_cnt_ec556770
+### f_telecom_country_postal_cells_lte_1km_cnt_f8e2bf8f
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_lte_5km_cnt_f0c68610
+### f_telecom_country_postal_cells_lte_5km_cnt_a8708fc1
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_lte_10km_cnt_6aa8fd05
+### f_telecom_country_postal_cells_lte_10km_cnt_020d69c3
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_lte_20km_cnt_fd7ad8d4
+### f_telecom_country_postal_cells_lte_20km_cnt_b3a74ec1
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_cdma_1km_cnt_1c54e6c8
+### f_telecom_country_postal_cells_cdma_1km_cnt_e4989c7a
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_cdma_5km_cnt_52ca0b9b
+### f_telecom_country_postal_cells_cdma_5km_cnt_d9252ea8
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_cdma_10km_cnt_5664e01b
+### f_telecom_country_postal_cells_cdma_10km_cnt_14ef5cb9
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_cdma_20km_cnt_2d567b95
+### f_telecom_country_postal_cells_cdma_20km_cnt_846957e9
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_lte_1km_share_782184f0
+### f_telecom_country_postal_cells_lte_1km_share_accfea51
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_lte_10km_share_cb9092c9
+### f_telecom_country_postal_cells_lte_10km_share_dc870fd0
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_lte_20km_share_71853ec1
+### f_telecom_country_postal_cells_lte_20km_share_fae8a532
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_cdma_1km_share_033cbc8a
+### f_telecom_country_postal_cells_cdma_1km_share_deef5c10
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_cdma_10km_share_1d0646fc
+### f_telecom_country_postal_cells_cdma_10km_share_d5302f84
 `Datatype`: `FLOAT`
 `Description`: ``
 
-### f_cells_cdma_20km_share_a66d3c24
+### f_telecom_country_postal_cells_cdma_20km_share_e8afad74
 `Datatype`: `FLOAT`
 `Description`: ``
 
