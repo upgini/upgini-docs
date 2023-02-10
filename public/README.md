@@ -1,10 +1,10 @@
 Data sources available for `public` data type:  
 [osm](https://docs.upgini.com/public/osm)  
 [weather](https://docs.upgini.com/public/weather)  
+[mobile](https://docs.upgini.com/public/mobile)  
 [economics](https://docs.upgini.com/public/economics)  
 [demographic](https://docs.upgini.com/public/demographic)  
 [calendar](https://docs.upgini.com/public/calendar)  
-[mobile](https://docs.upgini.com/public/mobile)  
 [realty](https://docs.upgini.com/public/realty)  
 [ip](https://docs.upgini.com/public/ip)  
 [markets](https://docs.upgini.com/public/markets)  
