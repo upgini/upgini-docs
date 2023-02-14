@@ -27,6 +27,10 @@ Row count: `2,317,954`
 `Datatype`: `STRING`
 `Description`: `Name of internet service provider or company for IP address`
 
+### f_ip_domain_f6d7c748
+`Datatype`: `STRING`
+`Description`: `Domain of internet service provider or company for IP address`
+
 ### f_ip_usage_type_c1285836
 `Datatype`: `STRING`
 `Description`: `Usage type (COM-commercial, ORG-organization, GOV-government, MIL-military, EDU-educational, LIB-library, CDN-content delivery network, ISP-fixed line ISP, MOB-mobile ISP, DCH-data center, SES-search engine spider, RSV-reserved) of IP address`
