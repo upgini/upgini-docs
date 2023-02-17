@@ -11,3 +11,4 @@ Data sources available for `public` data type:
 [location](https://docs.upgini.com/public/location)  
 [cci](https://docs.upgini.com/public/cci)  
 [census](https://docs.upgini.com/public/census)  
+[telecom](https://docs.upgini.com/public/telecom)  
