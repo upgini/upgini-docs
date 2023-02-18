@@ -11,10 +11,6 @@ Row count: `461,023`
 
 ## ℹ️ Features info:
 
-### f_phone_capacity_fffa7895
-`Datatype`: `INTEGER`
-`Description`: `Number of phone numbers in range`
-
 ### f_phone_operator_64d2fd84
 `Datatype`: `STRING`
 `Description`: `Carrier derived from range of phone numbers`
@@ -38,6 +34,18 @@ Row count: `461,023`
 ### f_phone_type_aae1deb7
 `Datatype`: `STRING`
 `Description`: `Type of phone number derived from range of phone numbers`
+
+### f_phone_number_capacity_88134068
+`Datatype`: `INTEGER`
+`Description`: `Number of phone numbers in range`
+
+### f_phone_operator_capacity_1789cde2
+`Datatype`: `INTEGER`
+`Description`: `Number of phone numbers in operator`
+
+### f_phone_number_interval_share_f59a240b
+`Datatype`: `FLOAT`
+`Description`: `Share of phone numbers in range of operator`
 
 
 

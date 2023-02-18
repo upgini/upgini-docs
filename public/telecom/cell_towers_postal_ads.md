@@ -2,7 +2,7 @@
 ## ℹ️ Dataset info 
 Description: `Data feed with information about mobile cell towers in the postal code areas` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: mobile ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: telecom ` &nbsp;
 
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
