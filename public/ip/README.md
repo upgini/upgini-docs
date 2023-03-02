@@ -5,5 +5,5 @@ Datasets available for `ip` source:
 [ip2asn_lite_ads](https://docs.upgini.com/public/ip/ip2asn_lite_ads)  
 [ip2proxy_lite](https://docs.upgini.com/public/ip/ip2proxy_lite)  
 [ip_index](https://docs.upgini.com/public/ip/ip_index)  
-[ip2location_lite](https://docs.upgini.com/public/ip/ip2location_lite)  
 [city_lite_ads](https://docs.upgini.com/public/ip/city_lite_ads)  
+[ip2location_lite](https://docs.upgini.com/public/ip/ip2location_lite)  
