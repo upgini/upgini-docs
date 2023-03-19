@@ -9,6 +9,6 @@ Data sources available for `public` data type:
 [ip](https://docs.upgini.com/public/ip)  
 [location](https://docs.upgini.com/public/location)  
 [cci](https://docs.upgini.com/public/cci)  
-[markets](https://docs.upgini.com/public/markets)  
 [census](https://docs.upgini.com/public/census)  
 [demographic](https://docs.upgini.com/public/demographic)  
+[markets](https://docs.upgini.com/public/markets)  
