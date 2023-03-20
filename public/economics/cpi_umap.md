@@ -13,43 +13,43 @@ Row count: `8,471`
 
 ### f_economic_date_cpi_umap_0_4a61b401
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 0`
 
 ### f_economic_date_cpi_umap_1_d7e56b62
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 1`
 
 ### f_economic_date_cpi_umap_2_8073c44b
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 2`
 
 ### f_economic_date_cpi_umap_3_67515080
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 3`
 
 ### f_economic_date_cpi_umap_4_970cc061
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 4`
 
 ### f_economic_date_cpi_umap_5_b19a8c75
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 5`
 
 ### f_economic_date_cpi_umap_6_a5476029
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 6`
 
 ### f_economic_date_cpi_umap_7_d43e2396
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 7`
 
 ### f_economic_date_cpi_umap_8_48ff368b
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 8`
 
 ### f_economic_date_cpi_umap_9_539b2f30
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data UMAP component 9`
 
 
 

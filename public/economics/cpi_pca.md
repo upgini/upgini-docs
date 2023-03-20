@@ -13,43 +13,43 @@ Row count: `8,471`
 
 ### f_economic_date_cpi_pca_0_14babfd8
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 0`
 
 ### f_economic_date_cpi_pca_1_83d3297f
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 1`
 
 ### f_economic_date_cpi_pca_2_2f6cef22
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 2`
 
 ### f_economic_date_cpi_pca_3_b020e440
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 3`
 
 ### f_economic_date_cpi_pca_4_be9ccde8
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 4`
 
 ### f_economic_date_cpi_pca_5_789d07f3
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 5`
 
 ### f_economic_date_cpi_pca_6_b0c66cca
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 6`
 
 ### f_economic_date_cpi_pca_7_00a30266
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 7`
 
 ### f_economic_date_cpi_pca_8_f8e3b3c8
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 8`
 
 ### f_economic_date_cpi_pca_9_065083fb
 `Datatype`: `FLOAT`
-`Description`: ``
+`Description`: `Consumer Price Index data PCA component 9`
 
 
 
