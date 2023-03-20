@@ -1,6 +1,6 @@
 # 📖 cpi_umap 
 ## ℹ️ Dataset info 
-Description: `UMAP transformation of Consumer Price Index data. Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction technique that can be used for visualisation similarly to t-SNE, but also for general non-linear dimension reduction. ` 
+Description: `UMAP transformation of Consumer Price Index data. Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction technique that can be used for visualisation similarly to t-SNE, but also for general non-linear dimension reduction` 
 
 Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: economics ` &nbsp;
 

@@ -37,15 +37,15 @@ Row count: `1,546,864`
 
 ### f_economic_country_date_pcpia_wt_43105e12
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index,  Clothing and footwear, Weight`
+`Description`: `Consumer Price Index, Clothing and footwear, Weight`
 
 ### f_economic_country_date_pcpiec_ix_5e3ceee9
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index,  Communication`
+`Description`: `Consumer Price Index, Communication`
 
 ### f_economic_country_date_pcpiec_pc_cp_a_pt_b56febd8
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index,  Communication, Percentage change, Previous year`
+`Description`: `Consumer Price Index, Communication, Percentage change, Previous year`
 
 ### f_economic_country_date_pcpiec_pc_pp_pt_d75260f1
 `Datatype`: `FLOAT`
@@ -57,7 +57,7 @@ Row count: `1,546,864`
 
 ### f_economic_country_date_pcpied_ix_a80a2804
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index,  Education`
+`Description`: `Consumer Price Index, Education`
 
 ### f_economic_country_date_pcpied_pc_cp_a_pt_bb0c7212
 `Datatype`: `FLOAT`
@@ -377,7 +377,7 @@ Row count: `1,546,864`
 
 ### f_economic_country_date_pcpir_pc_cp_a_pt_8383cb9b
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index,  Recreation and culture, Percentage change, Previous year`
+`Description`: `Consumer Price Index, Recreation and culture, Percentage change, Previous year`
 
 ### f_economic_country_date_pcpir_pc_pp_pt_077d8f21
 `Datatype`: `FLOAT`
