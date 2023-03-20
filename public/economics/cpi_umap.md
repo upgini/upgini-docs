@@ -7,49 +7,49 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` DATE ` &nbsp;
 
-Row count: `8,228` 
+Row count: `8,471` 
 
 ## ℹ️ Features info:
 
 ### f_economic_date_cpi_umap_0_4a61b401
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 0`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_1_d7e56b62
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 1`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_2_8073c44b
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 2`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_3_67515080
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 3`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_4_970cc061
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 4`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_5_b19a8c75
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 5`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_6_a5476029
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 6`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_7_d43e2396
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 7`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_8_48ff368b
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 8`
+`Description`: ``
 
 ### f_economic_date_cpi_umap_9_539b2f30
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index UMAP component 9`
+`Description`: ``
 
 
 

@@ -7,49 +7,49 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` DATE ` &nbsp;
 
-Row count: `8,228` 
+Row count: `8,471` 
 
 ## ℹ️ Features info:
 
 ### f_economic_date_cpi_pca_0_14babfd8
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 0`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_1_83d3297f
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 1`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_2_2f6cef22
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 2`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_3_b020e440
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 3`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_4_be9ccde8
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 4`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_5_789d07f3
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 5`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_6_b0c66cca
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 6`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_7_00a30266
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 7`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_8_f8e3b3c8
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 8`
+`Description`: ``
 
 ### f_economic_date_cpi_pca_9_065083fb
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index data PCA component 9`
+`Description`: ``
 
 
 

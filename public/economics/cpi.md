@@ -7,7 +7,7 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` DATE ` &nbsp;` COUNTRY ` &nbsp;
 
-Row count: `1,546,864` 
+Row count: `1,584,077` 
 
 ## ℹ️ Features info:
 
