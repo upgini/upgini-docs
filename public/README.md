@@ -8,7 +8,6 @@ Data sources available for `public` data type:
 [calendar](https://docs.upgini.com/public/calendar)  
 [ip](https://docs.upgini.com/public/ip)  
 [location](https://docs.upgini.com/public/location)  
-[cci](https://docs.upgini.com/public/cci)  
 [census](https://docs.upgini.com/public/census)  
 [demographic](https://docs.upgini.com/public/demographic)  
 [markets](https://docs.upgini.com/public/markets)  
