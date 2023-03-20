@@ -121,15 +121,15 @@ Row count: `1,546,864`
 
 ### f_economic_country_date_pcpiha_ix_52d691b5
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index, Consumer Price Index, All items, Harmonized`
+`Description`: `Consumer Price Index, All items, Harmonized`
 
 ### f_economic_country_date_pcpiha_pc_cp_a_pt_a7cd34bf
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index, Consumer Price Index, All items, Harmonized, Percentage change, Previous year`
+`Description`: `Consumer Price Index, All items, Harmonized, Percentage change, Previous year`
 
 ### f_economic_country_date_pcpiha_pc_pp_pt_4fa27ee8
 `Datatype`: `FLOAT`
-`Description`: `Consumer Price Index, Consumer Price Index, All items, Harmonized, Percentage change, Previous period`
+`Description`: `Consumer Price Index, All items, Harmonized, Percentage change, Previous period`
 
 ### f_economic_country_date_pcpihaa_ix_4a673df5
 `Datatype`: `FLOAT`
