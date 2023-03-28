@@ -1,6 +1,5 @@
 Data sources available for `public` data type:  
 [telecom](https://docs.upgini.com/public/telecom)  
-[mobile](https://docs.upgini.com/public/mobile)  
 [osm](https://docs.upgini.com/public/osm)  
 [weather](https://docs.upgini.com/public/weather)  
 [realty](https://docs.upgini.com/public/realty)  
@@ -11,3 +10,4 @@ Data sources available for `public` data type:
 [census](https://docs.upgini.com/public/census)  
 [markets](https://docs.upgini.com/public/markets)  
 [demographic](https://docs.upgini.com/public/demographic)  
+[mobile](https://docs.upgini.com/public/mobile)  

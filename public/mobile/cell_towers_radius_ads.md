@@ -7,7 +7,7 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
-Row count: `662,050` 
+Row count: `494,336` 
 
 ## ℹ️ Features info:
 
@@ -27,6 +27,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Number of UMTS cells in 10km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_10km_cnt_7e7cbc5a
+`Datatype`: `INTEGER`
+`Description`: `Number of CDMA cells in 10km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_10km_cnt_to_cells_cnt_1fa697bf
 `Datatype`: `FLOAT`
 `Description`: `Share of LTE cells in 10km radius around postal code area`
@@ -38,6 +42,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_10km_cnt_to_cells_cnt_c753759c
 `Datatype`: `FLOAT`
 `Description`: `Share of UMTS cells in 10km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_10km_cnt_to_cells_cnt_56344d1b
+`Datatype`: `FLOAT`
+`Description`: `Share of CDMA cells in 10km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_10km_range_avg_7bfadcd4
 `Datatype`: `FLOAT`
@@ -51,6 +59,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg range of UMTS cells in 10km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_10km_range_avg_0174a9e6
+`Datatype`: `FLOAT`
+`Description`: `Avg range of CDMA cells in 10km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_10km_range_min_9809ba20
 `Datatype`: `INTEGER`
 `Description`: `Min range of LTE cells in 10km radius around postal code area`
@@ -62,6 +74,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_10km_range_min_ad7cf61b
 `Datatype`: `INTEGER`
 `Description`: `Min range of UMTS cells in 10km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_10km_range_min_f3870b8a
+`Datatype`: `INTEGER`
+`Description`: `Min range of CDMA cells in 10km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_10km_range_max_31fe6d13
 `Datatype`: `INTEGER`
@@ -75,6 +91,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Max range of UMTS cells in 10km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_10km_range_max_7d1a43a3
+`Datatype`: `INTEGER`
+`Description`: `Max range of CDMA cells in 10km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_10km_range_stddev_78a5166c
 `Datatype`: `FLOAT`
 `Description`: `Stddev range of LTE cells in 10km radius around postal code area`
@@ -86,6 +106,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_10km_range_stddev_9211d764
 `Datatype`: `FLOAT`
 `Description`: `Stddev range of UMTS cells in 10km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_10km_range_stddev_219fd5b2
+`Datatype`: `FLOAT`
+`Description`: `Stddev range of CDMA cells in 10km radius around postal code area`
 
 ### f_telecom_country_postal_cells_10km_range_avg_89b256f5
 `Datatype`: `FLOAT`
@@ -115,6 +139,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Difference between max and min range of UMTS cells in 10km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_10km_range_max_min_dif_81601004
+`Datatype`: `INTEGER`
+`Description`: `Difference between max and min range of CDMA cells in 10km radius around postal code area`
+
 ### f_telecom_country_postal_cells_10km_range_max_min_dif_2d7369c3
 `Datatype`: `INTEGER`
 `Description`: `Difference between max and min range of cells in 10km radius around postal code area`
@@ -130,6 +158,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_10km_lifetime_avg_c1160b81
 `Datatype`: `FLOAT`
 `Description`: `Average ifetime of UMTS cells in 10km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_10km_lifetime_avg_6445da89
+`Datatype`: `FLOAT`
+`Description`: `Average ifetime of CDMA cells in 10km radius around postal code area`
 
 ### f_telecom_country_postal_cells_10km_lifetime_avg_c3b6845c
 `Datatype`: `FLOAT`
@@ -147,6 +179,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg samples of UMTS cells in 10km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_10km_samples_avg_c5d14676
+`Datatype`: `FLOAT`
+`Description`: `Avg samples of CDMA cells in 10km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_10km_samples_min_190c0152
 `Datatype`: `INTEGER`
 `Description`: `Min samples of LTE cells in 10km radius around postal code area`
@@ -158,6 +194,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_10km_samples_min_6a4efdb5
 `Datatype`: `INTEGER`
 `Description`: `Min samples of UMTS cells in 10km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_10km_samples_min_38f8b1d9
+`Datatype`: `INTEGER`
+`Description`: `Min samples of CDMA cells in 10km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_10km_samples_max_cdcd6634
 `Datatype`: `INTEGER`
@@ -171,6 +211,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Max samples of UMTS cells in 10km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_10km_samples_max_ad79367f
+`Datatype`: `INTEGER`
+`Description`: `Max samples of CDMA cells in 10km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_10km_samples_stddev_760cbcbb
 `Datatype`: `FLOAT`
 `Description`: ``
@@ -180,6 +224,10 @@ Row count: `662,050`
 `Description`: ``
 
 ### f_telecom_country_postal_cells_UMTS_10km_samples_stddev_4d48bbc5
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### f_telecom_country_postal_cells_CDMA_10km_samples_stddev_60792c8e
 `Datatype`: `FLOAT`
 `Description`: ``
 
@@ -207,6 +255,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg days from last update of info about UMTS cells in 10km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_10km_days_from_update_avg_3a4a72a1
+`Datatype`: `FLOAT`
+`Description`: `Avg days from last update of info about CDMA cells in 10km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_10km_days_from_update_min_08b98c74
 `Datatype`: `INTEGER`
 `Description`: `Min days from last update of info about LTE cells in 10km radius around postal code area`
@@ -219,6 +271,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Min days from last update of info about UMTS cells in 10km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_10km_days_from_update_min_5e884ed0
+`Datatype`: `INTEGER`
+`Description`: `Min days from last update of info about CDMA cells in 10km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_10km_days_from_update_max_4cc3f784
 `Datatype`: `INTEGER`
 `Description`: `Max days from last update of info about LTE cells in 10km radius around postal code area`
@@ -230,6 +286,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_10km_days_from_update_max_d7770aac
 `Datatype`: `INTEGER`
 `Description`: `Max days from last update of info about UMTS cells in 10km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_10km_days_from_update_max_5f6edf17
+`Datatype`: `INTEGER`
+`Description`: `Max days from last update of info about CDMA cells in 10km radius around postal code area`
 
 ### f_telecom_country_postal_cells_10km_days_from_update_avg_5ae9c77d
 `Datatype`: `FLOAT`
@@ -259,6 +319,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Number of UMTS cells in 5km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_5km_cnt_bca11a93
+`Datatype`: `INTEGER`
+`Description`: `Number of CDMA cells in 5km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_5km_cnt_to_cells_cnt_14703b45
 `Datatype`: `FLOAT`
 `Description`: `Share of LTE cells in 5km radius around postal code area`
@@ -270,6 +334,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_5km_cnt_to_cells_cnt_dbd6f8bc
 `Datatype`: `FLOAT`
 `Description`: `Share of UMTS cells in 5km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_5km_cnt_to_cells_cnt_673030b4
+`Datatype`: `FLOAT`
+`Description`: `Share of CDMA cells in 5km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_5km_range_avg_77ccde70
 `Datatype`: `FLOAT`
@@ -283,6 +351,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg range of UMTS cells in 5km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_5km_range_avg_2c00d250
+`Datatype`: `FLOAT`
+`Description`: `Avg range of CDMA cells in 5km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_5km_range_min_7c96b8c4
 `Datatype`: `INTEGER`
 `Description`: `Min range of LTE cells in 5km radius around postal code area`
@@ -294,6 +366,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_5km_range_min_acc88e43
 `Datatype`: `INTEGER`
 `Description`: `Min range of UMTS cells in 5km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_5km_range_min_5e5256c8
+`Datatype`: `INTEGER`
+`Description`: `Min range of CDMA cells in 5km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_5km_range_max_4ed32852
 `Datatype`: `INTEGER`
@@ -307,6 +383,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Max range of UMTS cells in 5km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_5km_range_max_f7d0aca4
+`Datatype`: `INTEGER`
+`Description`: `Max range of CDMA cells in 5km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_5km_range_stddev_a672ea03
 `Datatype`: `FLOAT`
 `Description`: `Stddev range of LTE cells in 5km radius around postal code area`
@@ -318,6 +398,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_5km_range_stddev_5add47a3
 `Datatype`: `FLOAT`
 `Description`: `Stddev range of UMTS cells in 5km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_5km_range_stddev_003f9692
+`Datatype`: `FLOAT`
+`Description`: `Stddev range of CDMA cells in 5km radius around postal code area`
 
 ### f_telecom_country_postal_cells_5km_range_avg_9bcd9026
 `Datatype`: `FLOAT`
@@ -347,6 +431,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Difference between max and min range of UMTS cells in 5km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_5km_range_max_min_dif_0915ec0e
+`Datatype`: `INTEGER`
+`Description`: `Difference between max and min range of CDMA cells in 5km radius around postal code area`
+
 ### f_telecom_country_postal_cells_5km_range_max_min_dif_1d9b7ab7
 `Datatype`: `INTEGER`
 `Description`: `Difference between max and min range of cells in 5km radius around postal code area`
@@ -362,6 +450,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_5km_lifetime_avg_fa0f9de9
 `Datatype`: `FLOAT`
 `Description`: `Average ifetime of UMTS cells in 5km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_5km_lifetime_avg_5dd8f644
+`Datatype`: `FLOAT`
+`Description`: `Average ifetime of CDMA cells in 5km radius around postal code area`
 
 ### f_telecom_country_postal_cells_5km_lifetime_avg_e532ce7a
 `Datatype`: `FLOAT`
@@ -379,6 +471,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg samples of UMTS cells in 5km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_5km_samples_avg_21a5a887
+`Datatype`: `FLOAT`
+`Description`: `Avg samples of CDMA cells in 5km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_5km_samples_min_2b07737b
 `Datatype`: `INTEGER`
 `Description`: `Min samples of LTE cells in 5km radius around postal code area`
@@ -390,6 +486,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_5km_samples_min_86bee78b
 `Datatype`: `INTEGER`
 `Description`: `Min samples of UMTS cells in 5km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_5km_samples_min_7744afb9
+`Datatype`: `INTEGER`
+`Description`: `Min samples of CDMA cells in 5km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_5km_samples_max_439f762d
 `Datatype`: `INTEGER`
@@ -403,6 +503,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Max samples of UMTS cells in 5km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_5km_samples_max_ca41aa64
+`Datatype`: `INTEGER`
+`Description`: `Max samples of CDMA cells in 5km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_5km_samples_stddev_c562dd0c
 `Datatype`: `FLOAT`
 `Description`: ``
@@ -412,6 +516,10 @@ Row count: `662,050`
 `Description`: ``
 
 ### f_telecom_country_postal_cells_UMTS_5km_samples_stddev_610e7b41
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### f_telecom_country_postal_cells_CDMA_5km_samples_stddev_4c528cb3
 `Datatype`: `FLOAT`
 `Description`: ``
 
@@ -439,6 +547,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg days from last update of info about UMTS cells in 5km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_5km_days_from_update_avg_3201fe17
+`Datatype`: `FLOAT`
+`Description`: `Avg days from last update of info about CDMA cells in 5km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_5km_days_from_update_min_0db25fc0
 `Datatype`: `INTEGER`
 `Description`: `Min days from last update of info about LTE cells in 5km radius around postal code area`
@@ -451,6 +563,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Min days from last update of info about UMTS cells in 5km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_5km_days_from_update_min_2f63a007
+`Datatype`: `INTEGER`
+`Description`: `Min days from last update of info about CDMA cells in 5km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_5km_days_from_update_max_45fe67fe
 `Datatype`: `INTEGER`
 `Description`: `Max days from last update of info about LTE cells in 5km radius around postal code area`
@@ -462,6 +578,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_5km_days_from_update_max_03cccfef
 `Datatype`: `INTEGER`
 `Description`: `Max days from last update of info about UMTS cells in 5km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_5km_days_from_update_max_6738a8eb
+`Datatype`: `INTEGER`
+`Description`: `Max days from last update of info about CDMA cells in 5km radius around postal code area`
 
 ### f_telecom_country_postal_cells_5km_days_from_update_avg_95381367
 `Datatype`: `FLOAT`
@@ -491,6 +611,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Number of UMTS cells in 1km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_1km_cnt_ac596c88
+`Datatype`: `INTEGER`
+`Description`: `Number of CDMA cells in 1km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_1km_cnt_to_cells_cnt_a5d3d7f0
 `Datatype`: `FLOAT`
 `Description`: `Share of LTE cells in 1km radius around postal code area`
@@ -502,6 +626,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_1km_cnt_to_cells_cnt_626f4638
 `Datatype`: `FLOAT`
 `Description`: `Share of UMTS cells in 1km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_1km_cnt_to_cells_cnt_0aa2a8d2
+`Datatype`: `FLOAT`
+`Description`: `Share of CDMA cells in 1km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_1km_range_avg_f6ed2f82
 `Datatype`: `FLOAT`
@@ -515,6 +643,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg range of UMTS cells in 1km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_1km_range_avg_ca7afa6d
+`Datatype`: `FLOAT`
+`Description`: `Avg range of CDMA cells in 1km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_1km_range_min_75ca8914
 `Datatype`: `INTEGER`
 `Description`: `Min range of LTE cells in 1km radius around postal code area`
@@ -526,6 +658,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_1km_range_min_1330ab62
 `Datatype`: `INTEGER`
 `Description`: `Min range of UMTS cells in 1km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_1km_range_min_6ebc0bd0
+`Datatype`: `INTEGER`
+`Description`: `Min range of CDMA cells in 1km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_1km_range_max_caf1c73e
 `Datatype`: `INTEGER`
@@ -539,6 +675,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Max range of UMTS cells in 1km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_1km_range_max_f9f72e5a
+`Datatype`: `INTEGER`
+`Description`: `Max range of CDMA cells in 1km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_1km_range_stddev_9967780d
 `Datatype`: `FLOAT`
 `Description`: `Stddev range of LTE cells in 1km radius around postal code area`
@@ -550,6 +690,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_1km_range_stddev_15f97241
 `Datatype`: `FLOAT`
 `Description`: `Stddev range of UMTS cells in 1km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_1km_range_stddev_8e91b2e0
+`Datatype`: `FLOAT`
+`Description`: `Stddev range of CDMA cells in 1km radius around postal code area`
 
 ### f_telecom_country_postal_cells_1km_range_avg_2b15bed2
 `Datatype`: `FLOAT`
@@ -579,6 +723,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Difference between max and min range of UMTS cells in 1km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_1km_range_max_min_dif_b863a950
+`Datatype`: `INTEGER`
+`Description`: `Difference between max and min range of CDMA cells in 1km radius around postal code area`
+
 ### f_telecom_country_postal_cells_1km_range_max_min_dif_97d139fb
 `Datatype`: `INTEGER`
 `Description`: `Difference between max and min range of cells in 1km radius around postal code area`
@@ -594,6 +742,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_1km_lifetime_avg_30b34d1b
 `Datatype`: `FLOAT`
 `Description`: `Average ifetime of UMTS cells in 1km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_1km_lifetime_avg_09f6dfc4
+`Datatype`: `FLOAT`
+`Description`: `Average ifetime of CDMA cells in 1km radius around postal code area`
 
 ### f_telecom_country_postal_cells_1km_lifetime_avg_b9fb939e
 `Datatype`: `FLOAT`
@@ -611,6 +763,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg samples of UMTS cells in 1km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_1km_samples_avg_e684064d
+`Datatype`: `FLOAT`
+`Description`: `Avg samples of CDMA cells in 1km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_1km_samples_min_ddad6e2b
 `Datatype`: `INTEGER`
 `Description`: `Min samples of LTE cells in 1km radius around postal code area`
@@ -622,6 +778,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_1km_samples_min_f2bc79d4
 `Datatype`: `INTEGER`
 `Description`: `Min samples of UMTS cells in 1km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_1km_samples_min_5871e314
+`Datatype`: `INTEGER`
+`Description`: `Min samples of CDMA cells in 1km radius around postal code area`
 
 ### f_telecom_country_postal_cells_LTE_1km_samples_max_328907d4
 `Datatype`: `INTEGER`
@@ -635,6 +795,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Max samples of UMTS cells in 1km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_1km_samples_max_b8352fce
+`Datatype`: `INTEGER`
+`Description`: `Max samples of CDMA cells in 1km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_1km_samples_stddev_86bb34ca
 `Datatype`: `FLOAT`
 `Description`: ``
@@ -644,6 +808,10 @@ Row count: `662,050`
 `Description`: ``
 
 ### f_telecom_country_postal_cells_UMTS_1km_samples_stddev_15bee8c4
+`Datatype`: `FLOAT`
+`Description`: ``
+
+### f_telecom_country_postal_cells_CDMA_1km_samples_stddev_954286d1
 `Datatype`: `FLOAT`
 `Description`: ``
 
@@ -671,6 +839,10 @@ Row count: `662,050`
 `Datatype`: `FLOAT`
 `Description`: `Avg days from last update of info about UMTS cells in 1km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_1km_days_from_update_avg_668a9148
+`Datatype`: `FLOAT`
+`Description`: `Avg days from last update of info about CDMA cells in 1km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_1km_days_from_update_min_c823c3b4
 `Datatype`: `INTEGER`
 `Description`: `Min days from last update of info about LTE cells in 1km radius around postal code area`
@@ -683,6 +855,10 @@ Row count: `662,050`
 `Datatype`: `INTEGER`
 `Description`: `Min days from last update of info about UMTS cells in 1km radius around postal code area`
 
+### f_telecom_country_postal_cells_CDMA_1km_days_from_update_min_f34a76f4
+`Datatype`: `INTEGER`
+`Description`: `Min days from last update of info about CDMA cells in 1km radius around postal code area`
+
 ### f_telecom_country_postal_cells_LTE_1km_days_from_update_max_b400a4e1
 `Datatype`: `INTEGER`
 `Description`: `Max days from last update of info about LTE cells in 1km radius around postal code area`
@@ -694,6 +870,10 @@ Row count: `662,050`
 ### f_telecom_country_postal_cells_UMTS_1km_days_from_update_max_46d1893e
 `Datatype`: `INTEGER`
 `Description`: `Max days from last update of info about UMTS cells in 1km radius around postal code area`
+
+### f_telecom_country_postal_cells_CDMA_1km_days_from_update_max_80710cbd
+`Datatype`: `INTEGER`
+`Description`: `Max days from last update of info about CDMA cells in 1km radius around postal code area`
 
 ### f_telecom_country_postal_cells_1km_days_from_update_avg_87664581
 `Datatype`: `FLOAT`
