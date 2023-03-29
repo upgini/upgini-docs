@@ -7,7 +7,7 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` DATE ` &nbsp;` POSTAL_CODE ` &nbsp;` COUNTRY ` &nbsp;
 
-Row count: `25,079,272` 
+Row count: `25,707,116` 
 
 ## ℹ️ Features info:
 
