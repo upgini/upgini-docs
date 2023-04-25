@@ -11,3 +11,4 @@ Data sources available for `public` data type:
 [demographic](https://docs.upgini.com/public/demographic)  
 [markets](https://docs.upgini.com/public/markets)  
 [mobile](https://docs.upgini.com/public/mobile)  
+
