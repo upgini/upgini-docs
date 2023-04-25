@@ -43,6 +43,10 @@ Row count: `2,317,954`
 `Datatype`: `STRING`
 `Description`: `Security threat reported for IP address`
 
+### f_ip_prefix_90b738b7
+`Datatype`: `INTEGER`
+`Description`: ``
+
 
 
 ---

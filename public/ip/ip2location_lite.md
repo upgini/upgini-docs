@@ -7,7 +7,7 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` IP_RANGE_FROM ` &nbsp;` IP_RANGE_TO ` &nbsp;
 
-Row count: `3,141,635` 
+Row count: `3,141,672` 
 
 ## ℹ️ Features info:
 
@@ -38,6 +38,10 @@ Row count: `3,141,635`
 ### f_ip_time_zone_5a5ddd54
 `Datatype`: `STRING`
 `Description`: `Time zone derived from IP address`
+
+### f_ip_prefix_39e299b3
+`Datatype`: `INTEGER`
+`Description`: ``
 
 
 

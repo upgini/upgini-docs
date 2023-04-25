@@ -7,7 +7,7 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` IP_RANGE_FROM ` &nbsp;` IP_RANGE_TO ` &nbsp;
 
-Row count: `3,265,584` 
+Row count: `3,265,621` 
 
 ## ℹ️ Features info:
 
@@ -38,6 +38,10 @@ Row count: `3,265,584`
 ### f_ip_is_in_european_union_da591e58
 `Datatype`: `INTEGER`
 `Description`: `Is IP address from European Union`
+
+### f_ip_prefix_70d71289
+`Datatype`: `INTEGER`
+`Description`: ``
 
 
 

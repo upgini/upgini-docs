@@ -1,6 +1,6 @@
 # 📖 distance_region_capital 
 ## ℹ️ Dataset info 
-Description: `Data about region capital cities` 
+Description: `Data feed with information about nearest region capital city` 
 
 Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: osm ` &nbsp;
 
@@ -13,7 +13,7 @@ Row count: `107,653`
 
 ### f_location_country_postal_dist_to_region_capital_city_2dd7ad9a
 `Datatype`: `FLOAT`
-`Description`: `Distance in meters from center of postal code area to region capital city`
+`Description`: `Distance between center of postal code area and center of nearest region capital city`
 
 ### f_location_country_postal_region_name_346abe35
 `Datatype`: `STRING`
@@ -21,7 +21,7 @@ Row count: `107,653`
 
 ### f_location_country_postal_region_capital_city_name_489f3ce8
 `Datatype`: `STRING`
-`Description`: `Region capital city`
+`Description`: `Region capital city name`
 
 
 

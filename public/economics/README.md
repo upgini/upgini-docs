@@ -1,9 +1,10 @@
 Datasets available for `economics` source:  
-[gdp](https://docs.upgini.com/public/economics/gdp)  
 [cpi_pca](https://docs.upgini.com/public/economics/cpi_pca)  
+[gdp](https://docs.upgini.com/public/economics/gdp)  
 [cbpol](https://docs.upgini.com/public/economics/cbpol)  
 [cci](https://docs.upgini.com/public/economics/cci)  
 [cbpol_pca](https://docs.upgini.com/public/economics/cbpol_pca)  
 [cpi](https://docs.upgini.com/public/economics/cpi)  
+[cci_pca](https://docs.upgini.com/public/economics/cci_pca)  
 [cbpol_umap](https://docs.upgini.com/public/economics/cbpol_umap)  
 [cpi_umap](https://docs.upgini.com/public/economics/cpi_umap)  

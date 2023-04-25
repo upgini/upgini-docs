@@ -2,12 +2,12 @@
 ## ℹ️ Dataset info 
 Description: `The IP to ASN database` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ip ` &nbsp;` ip_emb0: Aso HDBSCAN clustering ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ip ` &nbsp;
 
 Search keys: 
 ` IP_RANGE_FROM ` &nbsp;` IP_RANGE_TO ` &nbsp;
 
-Row count: `338,739` 
+Row count: `338,746` 
 
 ## ℹ️ Features info:
 
@@ -21,7 +21,7 @@ Row count: `338,739`
 
 ### f_ip_emb0_d79c7bae
 `Datatype`: `INTEGER`
-`Description`: ``
+`Description`: `Aso HDBSCAN clustering`
 
 ### f_ip_emb1_2db5ebc2
 `Datatype`: `FLOAT`
@@ -406,6 +406,10 @@ Row count: `338,739`
 ### f_ip_emb96_1b03220b
 `Datatype`: `FLOAT`
 `Description`: `Aso UMAP component 96`
+
+### f_ip_prefix_af414e91
+`Datatype`: `INTEGER`
+`Description`: ``
 
 
 

@@ -2,12 +2,12 @@
 ## ℹ️ Dataset info 
 Description: `World Mobile Network Coverage data` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: telecom ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: mobile ` &nbsp;
 
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
-Row count: `2,849,968` 
+Row count: `473,408` 
 
 ## ℹ️ Features info:
 
@@ -173,15 +173,15 @@ Row count: `2,849,968`
 
 ### f_telecom_country_postal_cells_LTE_20km_samples_stddev_14536f81
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of LTE cells in 20km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_GSM_20km_samples_stddev_9fb471fb
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of GSM cells in 20km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_UMTS_20km_samples_stddev_b76e06ad
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of UMTS cells in 20km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_20km_samples_avg_80024d9e
 `Datatype`: `FLOAT`
@@ -405,15 +405,15 @@ Row count: `2,849,968`
 
 ### f_telecom_country_postal_cells_LTE_10km_samples_stddev_a2fbff4d
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of LTE cells in 10km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_GSM_10km_samples_stddev_f202c6e4
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of GSM cells in 10km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_UMTS_10km_samples_stddev_ecd396ab
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of UMTS cells in 10km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_10km_samples_avg_e6af87c6
 `Datatype`: `FLOAT`
@@ -637,15 +637,15 @@ Row count: `2,849,968`
 
 ### f_telecom_country_postal_cells_LTE_5km_samples_stddev_78abf232
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of LTE cells in 5km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_GSM_5km_samples_stddev_e999b5db
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of GSM cells in 5km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_UMTS_5km_samples_stddev_a95f64cf
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of UMTS cells in 5km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_5km_samples_avg_72e5d354
 `Datatype`: `FLOAT`
@@ -869,15 +869,15 @@ Row count: `2,849,968`
 
 ### f_telecom_country_postal_cells_LTE_1km_samples_stddev_d4dd23c5
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of LTE cells in 1km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_GSM_1km_samples_stddev_d60a6bec
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of GSM cells in 1km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_UMTS_1km_samples_stddev_b764e90c
 `Datatype`: `FLOAT`
-`Description`: `Stddev samples of UMTS cells in 1km radius around postal code area`
+`Description`: ``
 
 ### f_telecom_country_postal_cells_1km_samples_avg_09f3d105
 `Datatype`: `FLOAT`

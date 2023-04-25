@@ -63,6 +63,10 @@ Row count: `3,269,374`
 `Datatype`: `STRING`
 `Description`: `Time zone derived from IP address`
 
+### f_ip_prefix_a3399b26
+`Datatype`: `INTEGER`
+`Description`: ``
+
 
 
 ---

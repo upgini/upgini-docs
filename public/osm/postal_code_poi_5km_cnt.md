@@ -7,85 +7,9 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
-Row count: `2,857,905` 
+Row count: `483,928` 
 
 ## ℹ️ Features info:
-
-### f_location_country_postal_pofw_muslim_5km_cnt_7f3423ed
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_pofw_christian_catholic_5km_cnt_ae66d161
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_pofw_christian_orthodox_5km_cnt_9329e34f
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_public_college_5km_cnt_1880cd7c
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_public_courthouse_5km_cnt_036b26ce
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_public_university_5km_cnt_db7ad196
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_leisure_swimming_pool_5km_cnt_ce1872f7
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_miscpoi_emergency_phone_5km_cnt_405f87d2
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_catering_bar_5km_cnt_9d2fb069
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_catering_cafe_5km_cnt_e86a7298
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_car_5km_cnt_1535cbaf
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_toys_5km_cnt_5bb4f671
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_books_5km_cnt_f11f16f2
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_kiosk_5km_cnt_de8282b2
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_florist_5km_cnt_f48e1022
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_doityourself_5km_cnt_67b95672
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_destination_wayside_cross_5km_cnt_e3efda37
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_hotel_5km_cnt_d64e9997
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_chalet_5km_cnt_f1fc7c09
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
 ### f_location_country_postal_pofw_christian_mormon_5km_cnt_71498fac
 `Datatype`: `INTEGER`
@@ -96,6 +20,10 @@ Row count: `2,857,905`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
 ### f_location_country_postal_natural_beach_5km_cnt_e0cd8f7c
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_natural_glacier_5km_cnt_83052d9b
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
@@ -171,63 +99,215 @@ Row count: `2,857,905`
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_natural_glacier_5km_cnt_83052d9b
+### f_location_country_postal_pofw_shinto_5km_cnt_c8455627
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_pofw_christian_methodist_5km_cnt_5aaebb17
+### f_location_country_postal_pofw_christian_baptist_5km_cnt_d48c511f
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_natural_volcano_5km_cnt_85a2eeed
+### f_location_country_postal_natural_cave_entrance_5km_cnt_b11e28e4
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_health_doctors_5km_cnt_d53f9f35
+### f_location_country_postal_poi_health_veterinary_5km_cnt_e58411b7
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_public_nursing_home_5km_cnt_60535297
+### f_location_country_postal_poi_public_library_5km_cnt_cafe1504
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_park_5km_cnt_e9ca9c97
+### f_location_country_postal_poi_catering_biergarten_5km_cnt_ad1c1523
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_ice_rink_5km_cnt_95a1afdc
+### f_location_country_postal_poi_shopping_clothes_5km_cnt_ae76803d
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_tourism_archaeological_5km_cnt_66ef69db
+### f_location_country_postal_poi_shopping_convenience_5km_cnt_36d8e66e
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_catering_fast_food_5km_cnt_25789cdd
+### f_location_country_postal_poi_destination_theme_park_5km_cnt_e5fcab34
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_mall_5km_cnt_d9e37674
+### f_location_country_postal_poi_accommodation_hostel_5km_cnt_10b24956
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_shoes_5km_cnt_8c8b4374
+### f_location_country_postal_poi_accommodation_guest_house_5km_cnt_608f1a90
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_computer_5km_cnt_378a8544
+### f_location_country_postal_poi_accommodation_bed_and_breakfast_5km_cnt_5fb4ab34
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_destination_ruins_5km_cnt_d1b2b9b7
+### f_location_country_postal_pofw_jewish_5km_cnt_2ac2bb69
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_accommodation_alpine_hut_5km_cnt_9a63c1bb
+### f_location_country_postal_poi_public_telephone_5km_cnt_1c4aa79b
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_pofw_muslim_shia_5km_cnt_a9b851e0
+### f_location_country_postal_poi_public_marketplace_5km_cnt_2dc6ed0f
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_hunting_stand_5km_cnt_1f87bc63
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_video_5km_cnt_5ecc2d36
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_travel_agency_5km_cnt_968d9401
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_vending_machine_5km_cnt_13db08ab
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_destination_memorial_5km_cnt_41bb1755
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_destination_attraction_5km_cnt_3ed05928
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_public_embassy_5km_cnt_9ba4f494
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_pofw_hindu_5km_cnt_9ebbeaa7
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_pofw_christian_lutheran_5km_cnt_64c7c4f4
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_public_town_hall_5km_cnt_46c70672
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_public_recycling_paper_5km_cnt_8b3f1417
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_leisure_theatre_5km_cnt_a9e432a3
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_leisure_dog_park_5km_cnt_7c6d1055
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_leisure_tennis_court_5km_cnt_305a4ba4
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_windmill_5km_cnt_2b9bd7eb
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_lighthouse_5km_cnt_66552455
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_tourism_art_5km_cnt_431fa8b6
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_gift_5km_cnt_ff894a24
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_laundry_5km_cnt_d4358fbb
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_destination_monument_5km_cnt_9efbb33c
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_destination_archaeological_site_5km_cnt_300e86e3
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_natural_peak_5km_cnt_49c9c546
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_natural_cliff_5km_cnt_a0a586aa
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_public_kindergarten_5km_cnt_3d42bf4a
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_public_recycling_metal_5km_cnt_8f0443a4
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_public_community_centre_5km_cnt_1d59c7b6
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_leisure_sports_centre_5km_cnt_e6a493ff
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_water_well_5km_cnt_06346bb6
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_water_works_5km_cnt_5a243909
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_fire_hydrant_5km_cnt_0bc5448b
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_emergency_access_5km_cnt_e4ac1d03
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_tourism_tourist_info_5km_cnt_aed523b6
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_tourism_tourist_guidepost_5km_cnt_4b8e5766
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_catering_pub_5km_cnt_68c60784
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_catering_restaurant_5km_cnt_626b32bf
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_bicycle_5km_cnt_3dc73ec3
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_car_wash_5km_cnt_2eb59633
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
+
+### f_location_country_postal_poi_destination_museum_5km_cnt_bed0ff58
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
@@ -288,54 +368,6 @@ Row count: `2,857,905`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
 ### f_location_country_postal_poi_shopping_mobile_phone_5km_cnt_a61c77fc
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_pofw_shinto_5km_cnt_c8455627
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_pofw_christian_baptist_5km_cnt_d48c511f
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_natural_cave_entrance_5km_cnt_b11e28e4
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_health_veterinary_5km_cnt_e58411b7
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_public_library_5km_cnt_cafe1504
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_catering_biergarten_5km_cnt_ad1c1523
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_clothes_5km_cnt_ae76803d
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_convenience_5km_cnt_36d8e66e
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_destination_theme_park_5km_cnt_e5fcab34
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_hostel_5km_cnt_10b24956
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_guest_house_5km_cnt_608f1a90
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_bed_and_breakfast_5km_cnt_5fb4ab34
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
@@ -535,167 +567,135 @@ Row count: `2,857,905`
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_pofw_jewish_5km_cnt_2ac2bb69
+### f_location_country_postal_pofw_muslim_5km_cnt_7f3423ed
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_public_embassy_5km_cnt_9ba4f494
+### f_location_country_postal_pofw_christian_catholic_5km_cnt_ae66d161
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_public_telephone_5km_cnt_1c4aa79b
+### f_location_country_postal_pofw_christian_orthodox_5km_cnt_9329e34f
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_public_marketplace_5km_cnt_2dc6ed0f
+### f_location_country_postal_poi_public_college_5km_cnt_1880cd7c
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_hunting_stand_5km_cnt_1f87bc63
+### f_location_country_postal_poi_public_courthouse_5km_cnt_036b26ce
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_video_5km_cnt_5ecc2d36
+### f_location_country_postal_poi_public_university_5km_cnt_db7ad196
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_travel_agency_5km_cnt_968d9401
+### f_location_country_postal_poi_leisure_swimming_pool_5km_cnt_ce1872f7
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_vending_machine_5km_cnt_13db08ab
+### f_location_country_postal_poi_miscpoi_emergency_phone_5km_cnt_405f87d2
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_destination_memorial_5km_cnt_41bb1755
+### f_location_country_postal_poi_catering_bar_5km_cnt_9d2fb069
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_destination_attraction_5km_cnt_3ed05928
+### f_location_country_postal_poi_catering_cafe_5km_cnt_e86a7298
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_pofw_hindu_5km_cnt_9ebbeaa7
+### f_location_country_postal_poi_shopping_car_5km_cnt_1535cbaf
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_pofw_christian_lutheran_5km_cnt_64c7c4f4
+### f_location_country_postal_poi_shopping_toys_5km_cnt_5bb4f671
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_public_town_hall_5km_cnt_46c70672
+### f_location_country_postal_poi_shopping_books_5km_cnt_f11f16f2
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_public_recycling_paper_5km_cnt_8b3f1417
+### f_location_country_postal_poi_shopping_kiosk_5km_cnt_de8282b2
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_theatre_5km_cnt_a9e432a3
+### f_location_country_postal_poi_shopping_florist_5km_cnt_f48e1022
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_dog_park_5km_cnt_7c6d1055
+### f_location_country_postal_poi_shopping_doityourself_5km_cnt_67b95672
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_tennis_court_5km_cnt_305a4ba4
+### f_location_country_postal_poi_destination_wayside_cross_5km_cnt_e3efda37
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_windmill_5km_cnt_2b9bd7eb
+### f_location_country_postal_poi_accommodation_hotel_5km_cnt_d64e9997
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_lighthouse_5km_cnt_66552455
+### f_location_country_postal_poi_accommodation_chalet_5km_cnt_f1fc7c09
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_tourism_art_5km_cnt_431fa8b6
+### f_location_country_postal_pofw_christian_methodist_5km_cnt_5aaebb17
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_gift_5km_cnt_ff894a24
+### f_location_country_postal_natural_volcano_5km_cnt_85a2eeed
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_laundry_5km_cnt_d4358fbb
+### f_location_country_postal_poi_health_doctors_5km_cnt_d53f9f35
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_destination_monument_5km_cnt_9efbb33c
+### f_location_country_postal_poi_public_nursing_home_5km_cnt_60535297
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_destination_archaeological_site_5km_cnt_300e86e3
+### f_location_country_postal_poi_leisure_park_5km_cnt_e9ca9c97
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_natural_peak_5km_cnt_49c9c546
+### f_location_country_postal_poi_leisure_ice_rink_5km_cnt_95a1afdc
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_natural_cliff_5km_cnt_a0a586aa
+### f_location_country_postal_poi_tourism_archaeological_5km_cnt_66ef69db
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_public_kindergarten_5km_cnt_3d42bf4a
+### f_location_country_postal_poi_catering_fast_food_5km_cnt_25789cdd
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_public_community_centre_5km_cnt_1d59c7b6
+### f_location_country_postal_poi_shopping_mall_5km_cnt_d9e37674
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_sports_centre_5km_cnt_e6a493ff
+### f_location_country_postal_poi_shopping_shoes_5km_cnt_8c8b4374
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_water_well_5km_cnt_06346bb6
+### f_location_country_postal_poi_shopping_computer_5km_cnt_378a8544
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_water_works_5km_cnt_5a243909
+### f_location_country_postal_poi_destination_ruins_5km_cnt_d1b2b9b7
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_fire_hydrant_5km_cnt_0bc5448b
+### f_location_country_postal_poi_accommodation_alpine_hut_5km_cnt_9a63c1bb
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_emergency_access_5km_cnt_e4ac1d03
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_tourism_tourist_info_5km_cnt_aed523b6
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_tourism_tourist_guidepost_5km_cnt_4b8e5766
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_catering_pub_5km_cnt_68c60784
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_catering_restaurant_5km_cnt_626b32bf
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_bicycle_5km_cnt_3dc73ec3
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_car_wash_5km_cnt_2eb59633
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_destination_museum_5km_cnt_bed0ff58
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
-
-### f_location_country_postal_poi_public_recycling_metal_5km_cnt_8f0443a4
+### f_location_country_postal_pofw_muslim_shia_5km_cnt_a9b851e0
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 5km radius around the postal code`
 

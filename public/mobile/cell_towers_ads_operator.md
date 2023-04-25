@@ -1,23 +1,19 @@
-# 📖 postal_codes_ads 
+# 📖 cell_towers_ads_operator 
 ## ℹ️ Dataset info 
-Description: `Worldwide list of postal codes with coordinates` 
+Description: `World Mobile Network Coverage data` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: location ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: mobile ` &nbsp;
 
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
-Row count: `2,885,657` 
+Row count: `512,395` 
 
 ## ℹ️ Features info:
 
-### f_latitude_0aa0a4d0
+### f_telecom_country_postal_unique_operators_cnt_to_unique_country_operators_cnt_b1decd73
 `Datatype`: `FLOAT`
-`Description`: `Latitude of center point of postal code area`
-
-### f_longitude_677fad52
-`Datatype`: `FLOAT`
-`Description`: `Longitude of center point of postal code area`
+`Description`: `Share of unique operators of cells in postal code area`
 
 
 

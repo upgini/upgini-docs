@@ -2,7 +2,7 @@
 ## ℹ️ Dataset info 
 Description: `Households statistics based on US Census Data` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: census ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: osm ` &nbsp;
 
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;` DATE ` &nbsp;

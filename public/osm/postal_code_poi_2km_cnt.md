@@ -7,85 +7,9 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
-Row count: `2,814,549` 
+Row count: `436,054` 
 
 ## ℹ️ Features info:
-
-### f_location_country_postal_pofw_muslim_2km_cnt_8c24ed0b
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_pofw_christian_catholic_2km_cnt_93f82ffb
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_pofw_christian_orthodox_2km_cnt_92c31c9c
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_public_college_2km_cnt_c7152570
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_public_courthouse_2km_cnt_b285b797
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_public_university_2km_cnt_446f633b
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_leisure_swimming_pool_2km_cnt_54099248
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_miscpoi_emergency_phone_2km_cnt_4c73538e
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_catering_bar_2km_cnt_08248123
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_catering_cafe_2km_cnt_a8dd575f
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_car_2km_cnt_4253fce9
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_toys_2km_cnt_a2bf28ab
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_books_2km_cnt_c3e3a830
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_kiosk_2km_cnt_36727fc8
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_florist_2km_cnt_1e816740
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_doityourself_2km_cnt_b0b2f88e
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_destination_wayside_cross_2km_cnt_86911242
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_hotel_2km_cnt_c9f1608f
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_chalet_2km_cnt_74ef6a1a
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
 ### f_location_country_postal_pofw_christian_mormon_2km_cnt_ccab40af
 `Datatype`: `INTEGER`
@@ -96,6 +20,10 @@ Row count: `2,814,549`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
 ### f_location_country_postal_natural_beach_2km_cnt_21a05809
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_natural_glacier_2km_cnt_b0e82236
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
@@ -171,63 +99,215 @@ Row count: `2,814,549`
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_natural_glacier_2km_cnt_b0e82236
+### f_location_country_postal_pofw_shinto_2km_cnt_e65b7706
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_pofw_christian_methodist_2km_cnt_f5692845
+### f_location_country_postal_pofw_christian_baptist_2km_cnt_7448e5dc
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_natural_volcano_2km_cnt_96ce9d33
+### f_location_country_postal_natural_cave_entrance_2km_cnt_9655d6a8
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_health_doctors_2km_cnt_3725dbd0
+### f_location_country_postal_poi_health_veterinary_2km_cnt_46306a1e
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_public_nursing_home_2km_cnt_79f4f751
+### f_location_country_postal_poi_public_library_2km_cnt_1047b5ee
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_park_2km_cnt_3b53ddfb
+### f_location_country_postal_poi_catering_biergarten_2km_cnt_1afee6a0
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_ice_rink_2km_cnt_644f03cb
+### f_location_country_postal_poi_shopping_clothes_2km_cnt_4047c51d
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_tourism_archaeological_2km_cnt_9a40dcbc
+### f_location_country_postal_poi_shopping_convenience_2km_cnt_056e3dd3
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_catering_fast_food_2km_cnt_b0ccc49e
+### f_location_country_postal_poi_destination_theme_park_2km_cnt_85f60de2
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_mall_2km_cnt_2df67ceb
+### f_location_country_postal_poi_accommodation_hostel_2km_cnt_b92ab07e
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_shoes_2km_cnt_f9d685c4
+### f_location_country_postal_poi_accommodation_guest_house_2km_cnt_701efb39
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_computer_2km_cnt_d29fa2e9
+### f_location_country_postal_poi_accommodation_bed_and_breakfast_2km_cnt_792ecc51
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_destination_ruins_2km_cnt_b3a0ca88
+### f_location_country_postal_pofw_jewish_2km_cnt_ea9d1531
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_accommodation_alpine_hut_2km_cnt_bd6f91dc
+### f_location_country_postal_poi_public_telephone_2km_cnt_823911a4
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_pofw_muslim_shia_2km_cnt_b2d7ab7c
+### f_location_country_postal_poi_public_marketplace_2km_cnt_324589e3
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_hunting_stand_2km_cnt_481add8c
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_video_2km_cnt_255ea956
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_travel_agency_2km_cnt_a221470e
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_vending_machine_2km_cnt_3c043f59
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_destination_memorial_2km_cnt_035c17e8
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_destination_attraction_2km_cnt_36705cab
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_public_embassy_2km_cnt_292c6627
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_pofw_hindu_2km_cnt_1d8386c6
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_pofw_christian_lutheran_2km_cnt_f5e864ab
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_public_town_hall_2km_cnt_9d336904
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_public_recycling_paper_2km_cnt_de5b0784
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_leisure_theatre_2km_cnt_e9e69be4
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_leisure_dog_park_2km_cnt_c58814be
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_leisure_tennis_court_2km_cnt_67feb84d
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_windmill_2km_cnt_49dd3434
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_lighthouse_2km_cnt_665797f7
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_tourism_art_2km_cnt_0448c48f
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_gift_2km_cnt_140294c4
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_laundry_2km_cnt_bc136fe8
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_destination_monument_2km_cnt_da270a91
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_destination_archaeological_site_2km_cnt_925888ce
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_natural_peak_2km_cnt_6beaedc4
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_natural_cliff_2km_cnt_cd77e7e4
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_public_kindergarten_2km_cnt_38c1dd8c
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_public_recycling_metal_2km_cnt_b917a4d7
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_public_community_centre_2km_cnt_7179ea52
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_leisure_sports_centre_2km_cnt_25fafa72
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_water_well_2km_cnt_fb4c6f39
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_water_works_2km_cnt_6250ab90
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_fire_hydrant_2km_cnt_a79fa166
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_miscpoi_emergency_access_2km_cnt_0d05bc64
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_tourism_tourist_info_2km_cnt_dc1d2ee6
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_tourism_tourist_guidepost_2km_cnt_aab1514a
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_catering_pub_2km_cnt_306f78ec
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_catering_restaurant_2km_cnt_77091fbc
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_bicycle_2km_cnt_6a7dbef2
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_shopping_car_wash_2km_cnt_dcc7540c
+`Datatype`: `INTEGER`
+`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
+
+### f_location_country_postal_poi_destination_museum_2km_cnt_39259cd6
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
@@ -288,54 +368,6 @@ Row count: `2,814,549`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
 ### f_location_country_postal_poi_shopping_mobile_phone_2km_cnt_2dc76e5f
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_pofw_shinto_2km_cnt_e65b7706
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_pofw_christian_baptist_2km_cnt_7448e5dc
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_natural_cave_entrance_2km_cnt_9655d6a8
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_health_veterinary_2km_cnt_46306a1e
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_public_library_2km_cnt_1047b5ee
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_catering_biergarten_2km_cnt_1afee6a0
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_clothes_2km_cnt_4047c51d
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_convenience_2km_cnt_056e3dd3
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_destination_theme_park_2km_cnt_85f60de2
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_hostel_2km_cnt_b92ab07e
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_guest_house_2km_cnt_701efb39
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_accommodation_bed_and_breakfast_2km_cnt_792ecc51
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
@@ -535,167 +567,135 @@ Row count: `2,814,549`
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_pofw_jewish_2km_cnt_ea9d1531
+### f_location_country_postal_pofw_muslim_2km_cnt_8c24ed0b
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_public_embassy_2km_cnt_292c6627
+### f_location_country_postal_pofw_christian_catholic_2km_cnt_93f82ffb
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_public_telephone_2km_cnt_823911a4
+### f_location_country_postal_pofw_christian_orthodox_2km_cnt_92c31c9c
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_public_marketplace_2km_cnt_324589e3
+### f_location_country_postal_poi_public_college_2km_cnt_c7152570
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_hunting_stand_2km_cnt_481add8c
+### f_location_country_postal_poi_public_courthouse_2km_cnt_b285b797
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_video_2km_cnt_255ea956
+### f_location_country_postal_poi_public_university_2km_cnt_446f633b
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_travel_agency_2km_cnt_a221470e
+### f_location_country_postal_poi_leisure_swimming_pool_2km_cnt_54099248
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_vending_machine_2km_cnt_3c043f59
+### f_location_country_postal_poi_miscpoi_emergency_phone_2km_cnt_4c73538e
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_destination_memorial_2km_cnt_035c17e8
+### f_location_country_postal_poi_catering_bar_2km_cnt_08248123
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_destination_attraction_2km_cnt_36705cab
+### f_location_country_postal_poi_catering_cafe_2km_cnt_a8dd575f
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_pofw_hindu_2km_cnt_1d8386c6
+### f_location_country_postal_poi_shopping_car_2km_cnt_4253fce9
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_pofw_christian_lutheran_2km_cnt_f5e864ab
+### f_location_country_postal_poi_shopping_toys_2km_cnt_a2bf28ab
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_public_town_hall_2km_cnt_9d336904
+### f_location_country_postal_poi_shopping_books_2km_cnt_c3e3a830
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_public_recycling_paper_2km_cnt_de5b0784
+### f_location_country_postal_poi_shopping_kiosk_2km_cnt_36727fc8
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_theatre_2km_cnt_e9e69be4
+### f_location_country_postal_poi_shopping_florist_2km_cnt_1e816740
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_dog_park_2km_cnt_c58814be
+### f_location_country_postal_poi_shopping_doityourself_2km_cnt_b0b2f88e
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_tennis_court_2km_cnt_67feb84d
+### f_location_country_postal_poi_destination_wayside_cross_2km_cnt_86911242
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_windmill_2km_cnt_49dd3434
+### f_location_country_postal_poi_accommodation_hotel_2km_cnt_c9f1608f
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_lighthouse_2km_cnt_665797f7
+### f_location_country_postal_poi_accommodation_chalet_2km_cnt_74ef6a1a
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_tourism_art_2km_cnt_0448c48f
+### f_location_country_postal_pofw_christian_methodist_2km_cnt_f5692845
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_gift_2km_cnt_140294c4
+### f_location_country_postal_natural_volcano_2km_cnt_96ce9d33
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_shopping_laundry_2km_cnt_bc136fe8
+### f_location_country_postal_poi_health_doctors_2km_cnt_3725dbd0
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_destination_monument_2km_cnt_da270a91
+### f_location_country_postal_poi_public_nursing_home_2km_cnt_79f4f751
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_destination_archaeological_site_2km_cnt_925888ce
+### f_location_country_postal_poi_leisure_park_2km_cnt_3b53ddfb
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_natural_peak_2km_cnt_6beaedc4
+### f_location_country_postal_poi_leisure_ice_rink_2km_cnt_644f03cb
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_natural_cliff_2km_cnt_cd77e7e4
+### f_location_country_postal_poi_tourism_archaeological_2km_cnt_9a40dcbc
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_public_kindergarten_2km_cnt_38c1dd8c
+### f_location_country_postal_poi_catering_fast_food_2km_cnt_b0ccc49e
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_public_community_centre_2km_cnt_7179ea52
+### f_location_country_postal_poi_shopping_mall_2km_cnt_2df67ceb
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_leisure_sports_centre_2km_cnt_25fafa72
+### f_location_country_postal_poi_shopping_shoes_2km_cnt_f9d685c4
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_water_well_2km_cnt_fb4c6f39
+### f_location_country_postal_poi_shopping_computer_2km_cnt_d29fa2e9
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_water_works_2km_cnt_6250ab90
+### f_location_country_postal_poi_destination_ruins_2km_cnt_b3a0ca88
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_fire_hydrant_2km_cnt_a79fa166
+### f_location_country_postal_poi_accommodation_alpine_hut_2km_cnt_bd6f91dc
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 
-### f_location_country_postal_poi_miscpoi_emergency_access_2km_cnt_0d05bc64
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_tourism_tourist_info_2km_cnt_dc1d2ee6
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_tourism_tourist_guidepost_2km_cnt_aab1514a
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_catering_pub_2km_cnt_306f78ec
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_catering_restaurant_2km_cnt_77091fbc
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_bicycle_2km_cnt_6a7dbef2
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_shopping_car_wash_2km_cnt_dcc7540c
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_destination_museum_2km_cnt_39259cd6
-`Datatype`: `INTEGER`
-`Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
-
-### f_location_country_postal_poi_public_recycling_metal_2km_cnt_b917a4d7
+### f_location_country_postal_pofw_muslim_shia_2km_cnt_b2d7ab7c
 `Datatype`: `INTEGER`
 `Description`: `Count of the specific OSM POIs in 2km radius around the postal code`
 

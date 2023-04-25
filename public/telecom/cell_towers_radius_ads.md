@@ -2,12 +2,12 @@
 ## ℹ️ Dataset info 
 Description: `World Mobile Network Coverage data` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: mobile ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: telecom ` &nbsp;
 
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
-Row count: `494,336` 
+Row count: `497,440` 
 
 ## ℹ️ Features info:
 

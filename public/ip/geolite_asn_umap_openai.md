@@ -2,12 +2,12 @@
 ## ℹ️ Dataset info 
 Description: `This database provides a reference to determine the autonomous system and number (ASN). An autonomous system (AS) is a collection of connected Internet Protocol (IP) routing prefixes under the control of one or more network operators as a single administrative entity in routing policy.` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ip ` &nbsp;` ip_emb0: ip_autonomous_system_organization HDBSCAN clustering ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ip ` &nbsp;
 
 Search keys: 
 ` IP_RANGE_FROM ` &nbsp;` IP_RANGE_TO ` &nbsp;
 
-Row count: `485,595` 
+Row count: `485,596` 
 
 ## ℹ️ Features info:
 
@@ -25,7 +25,7 @@ Row count: `485,595`
 
 ### f_ip_emb0_0fc0d7dc
 `Datatype`: `INTEGER`
-`Description`: ``
+`Description`: `ip_autonomous_system_organization HDBSCAN clustering`
 
 ### f_ip_emb1_fee0eec9
 `Datatype`: `FLOAT`
@@ -410,6 +410,10 @@ Row count: `485,595`
 ### f_ip_emb96_4ac77b85
 `Datatype`: `FLOAT`
 `Description`: `ip_autonomous_system_organization UMAP component 96`
+
+### f_ip_prefix_9efd29af
+`Datatype`: `INTEGER`
+`Description`: ``
 
 
 
