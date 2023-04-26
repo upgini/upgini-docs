@@ -7,7 +7,7 @@ Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source:
 Search keys: 
 ` COUNTRY ` &nbsp;` POSTAL_CODE ` &nbsp;
 
-Row count: `516,836` 
+Row count: `516,837` 
 
 ## ℹ️ Features info:
 
@@ -130,6 +130,14 @@ Row count: `516,836`
 ### f_location_country_postal_poi_health_hospital_500m_avg_dist_281c8be0
 `Datatype`: `FLOAT`
 `Description`: `Average distance between poi_health_hospital in radius 500m around the postal code`
+
+### f_location_country_postal_bus_station_500m_avg_dist_ac3cc382
+`Datatype`: `FLOAT`
+`Description`: `Average distance between bus_stations in radius 500m around the postal code`
+
+### f_location_country_postal_railway_station_500m_avg_dist_556fdd79
+`Datatype`: `FLOAT`
+`Description`: `Average distance between railway_stations in radius 500m around the postal code`
 
 
 
