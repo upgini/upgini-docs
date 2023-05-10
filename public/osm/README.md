@@ -19,5 +19,4 @@ Datasets available for `osm` source:
 [postal_code_poi_2km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_2km_cnt_to_population)  
 [postal_code_poi_5km_cnt_to_population](https://docs.upgini.com/public/osm/postal_code_poi_5km_cnt_to_population)  
 [ads_household_us](https://docs.upgini.com/public/osm/ads_household_us)  
-[population_ads](https://docs.upgini.com/public/osm/population_ads)  
 [distance_cities_300k](https://docs.upgini.com/public/osm/distance_cities_300k)  
