@@ -1,5 +1,4 @@
 Datasets available for `osm` source:  
-[osm_emb](https://docs.upgini.com/public/osm/osm_emb)  
 [postal_code_landuse_4km_area](https://docs.upgini.com/public/osm/postal_code_landuse_4km_area)  
 [postal_code_poi_1km_cnt](https://docs.upgini.com/public/osm/postal_code_poi_1km_cnt)  
 [postal_code_roads_2km_length](https://docs.upgini.com/public/osm/postal_code_roads_2km_length)  
