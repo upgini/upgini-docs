@@ -4,5 +4,4 @@ Datasets available for `ip` source:
 [asn_lite_ads_llm](https://docs.upgini.com/public/ip/asn_lite_ads_llm)  
 [dbip_location_20230328](https://docs.upgini.com/public/ip/dbip_location_20230328)  
 [ip2asn_lite_ads_llm](https://docs.upgini.com/public/ip/ip2asn_lite_ads_llm)  
-[db3_ip_country_region_city](https://docs.upgini.com/public/ip/db3_ip_country_region_city)  
 [ip_index](https://docs.upgini.com/public/ip/ip_index)  
