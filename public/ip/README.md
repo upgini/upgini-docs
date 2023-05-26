@@ -1,5 +1,4 @@
 Datasets available for `ip` source:  
-[geolite_asn_llm](https://docs.upgini.com/public/ip/geolite_asn_llm)  
 [geolite2](https://docs.upgini.com/public/ip/geolite2)  
 [ip2location_lite](https://docs.upgini.com/public/ip/ip2location_lite)  
 [asn_lite_ads_llm](https://docs.upgini.com/public/ip/asn_lite_ads_llm)  
