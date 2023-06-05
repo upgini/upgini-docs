@@ -6,5 +6,5 @@ Datasets available for `economics` source:
 [cbpol_pca](https://docs.upgini.com/public/economics/cbpol_pca)  
 [cpi](https://docs.upgini.com/public/economics/cpi)  
 [cci_pca](https://docs.upgini.com/public/economics/cci_pca)  
-[cbpol_umap](https://docs.upgini.com/public/economics/cbpol_umap)  
 [cpi_umap](https://docs.upgini.com/public/economics/cpi_umap)  
+[cbpol_umap](https://docs.upgini.com/public/economics/cbpol_umap)  
