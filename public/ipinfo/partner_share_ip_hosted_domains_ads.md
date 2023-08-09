@@ -2,7 +2,7 @@
 ## ℹ️ Dataset info 
 Description: `IPInfo data: Hosted Domains Database. https://ipinfo.io/developers/hosted-domains-database?referer=upgini` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ip ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ipinfo ` &nbsp;
 
 Search keys: 
 ` IP_ADDRESS ` &nbsp;

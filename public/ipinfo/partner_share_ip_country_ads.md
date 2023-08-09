@@ -2,7 +2,7 @@
 ## ℹ️ Dataset info 
 Description: `IPInfo data: IP to Country Database. https://ipinfo.io/developers/ip-to-country-database?referer=upgini` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ip ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ipinfo ` &nbsp;
 
 Search keys: 
 ` IP_RANGE_FROM ` &nbsp;` IP_RANGE_TO ` &nbsp;

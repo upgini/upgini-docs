@@ -2,7 +2,7 @@
 ## ℹ️ Dataset info 
 Description: `IPInfo data: RIR WHOIS data is created by parsing IP WHOIS data from the regional Internet Registries. Description: https://ipinfo.io/developers/ip-whois-database?referer=upgini` 
 
-Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ip ` &nbsp;
+Labels: ` owner: upgini ` &nbsp;` dataset_type: public ` &nbsp;` dataset_source: ipinfo ` &nbsp;
 
 Search keys: 
 ` IP_RANGE_FROM ` &nbsp;` IP_RANGE_TO ` &nbsp;
