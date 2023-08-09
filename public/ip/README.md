@@ -1,1 +1,11 @@
 Datasets available for `ip` source:  
+[partner_share_ip_rir_whois_ads](https://docs.upgini.com/public/ip/partner_share_ip_rir_whois_ads)  
+[partner_share_ip_company_ads](https://docs.upgini.com/public/ip/partner_share_ip_company_ads)  
+[partner_share_ip_privacy_extended_ads](https://docs.upgini.com/public/ip/partner_share_ip_privacy_extended_ads)  
+[partner_share_ip_location_extended_ads](https://docs.upgini.com/public/ip/partner_share_ip_location_extended_ads)  
+[partner_share_ip_carrier_ads](https://docs.upgini.com/public/ip/partner_share_ip_carrier_ads)  
+[partner_share_ip_country_ads](https://docs.upgini.com/public/ip/partner_share_ip_country_ads)  
+[partner_share_ip_hosted_domains_ads](https://docs.upgini.com/public/ip/partner_share_ip_hosted_domains_ads)  
+[partner_share_ip_country_asn_ads](https://docs.upgini.com/public/ip/partner_share_ip_country_asn_ads)  
+[partner_share_ip_rwhois_ads_perc](https://docs.upgini.com/public/ip/partner_share_ip_rwhois_ads_perc)  
+[partner_share_ip_geolocation_ads](https://docs.upgini.com/public/ip/partner_share_ip_geolocation_ads)  
