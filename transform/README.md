@@ -14,7 +14,7 @@ The request to the http_inference_trigger endpoint is made using the HTTP POST m
 
 ## Example of request:
 ```bash
-curl "https://inference-upgini.azurewebsites.net/api/http_inference_trigger" \
+curl "https://search.upgini.com/test/api/http_inference_trigger" \
     -H "Authorization: <put API_KEY here>" \
     -H "Content-Type: application/json" \
     -d '{"search_id": "<put search identifier here>", "search_keys": {"COUNTRY": "GB", "DATE": "2020-01-01", "POSTAL_CODE": "111111"}, "features": {"feature1": "featureValue1", "feature2": "featureValue2}}'
@@ -38,7 +38,10 @@ Example of successful response:
 {
     "status": "ok", 
     "result": {
-        "enriching_feature1": 18.0,
+        "f_enriched_feature1": 18.0,
+        "f_autofe_mul_sd8f7s9": 234.4,
+        "f_enriched_cat_feature2": "test",
+        "f_empty_feature3": null,
         "feature1_bd1088_emb1208": -0.007415670435875654,
         "feature1_bd1088_emb775": 0.03687792643904686,
         "feature2_bd1088_emb99": -0.01887989602982998,
