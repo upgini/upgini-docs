@@ -14,17 +14,17 @@ The request to the http_inference_trigger endpoint is made using the HTTP POST m
 
 ## Example of request:
 ```bash
-curl "https://search.upgini.com/test/api/http_inference_trigger" \
+curl "https://search.upgini.com/test/api/http_inference_trigger?search_id=<put search identifier here>" \
     -H "Authorization: <put API_KEY here>" \
     -H "Content-Type: application/json" \
-    -d '{"search_id": "<put search identifier here>", "search_keys": {"COUNTRY": "GB", "DATE": "2020-01-01", "POSTAL_CODE": "111111"}, "features": {"feature1": "featureValue1", "feature2": "featureValue2}}'
+    -d '{"search_keys": {"COUNTRY": "GB", "DATE": "2020-01-01", "POSTAL_CODE": "111111"}, "features": {"feature1": "featureValue1", "feature2": "featureValue2}}'
 ```
 
 ## Parameters
 
 * `Authorization`: (Header) The API key (without Bearer).
 * `Content-Type`: (Header) Set this to application/json to indicate the type of data being sent.
-* `search_id`: (Body) This is the identifier obtained after initiating the training of the FeaturesEnricher. It should be replaced with the actual search identifier.
+* `search_id`: (Request param) This is the identifier obtained after initiating the training of the FeaturesEnricher. It should be replaced with the actual search identifier.
 * `search_keys`: (Body) A dictionary where the keys are the types of search keys used during fit, and the values are the specific values for these keys that you want to transform.
 * `features`: (Body) If features were used during fit to generate new features, they must be specified here with their corresponding values.
 
