@@ -46,7 +46,19 @@ Example of successful response:
         "feature1_bd1088_emb775": 0.03687792643904686,
         "feature2_bd1088_emb99": -0.01887989602982998,
         "feature2_bd1088_emb1172": -0.04251651093363762
-    }
+    },
+    "trace_id": "2d4f48f5-3052-4cdd-b1ec-4a18ea4430cc"
+}
+```
+Set of feature names in result could be different depends on passed search_id.
+
+If some features or all features not found by passed search key or search key is missing on the server side then `null` will be returned as value of features:
+
+```json
+{
+   "status": "ok",
+   "result": {"f_upgini_feature1": null, "f_upgini_feature2": null},
+   "traceId": "2d4f48f5-3052-4cdd-b1ec-4a18ea4430cc"
 }
 ```
 
